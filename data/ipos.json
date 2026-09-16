@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:53:16Z",
+  "generatedAt": "2026-09-16T17:47:13Z",
   "ipos": [
     {
       "companyName": "Shakti Polytarp Limited",
@@ -96,8 +96,8 @@
       "faceValue": 10.0,
       "issueSize": "₹500.00 Cr",
       "gmp": {
-        "value": 105.0,
-        "percent": 24.76
+        "value": 90.0,
+        "percent": 21.23
       },
       "subscriptionTimes": "1.52x"
     },
@@ -175,6 +175,66 @@
       "gmp": {
         "value": 50.0,
         "percent": 42.37
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "FX MULTITECH LIMITED",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-21",
+      "closeDate": "2026-09-23",
+      "listingDate": "2026-09-28",
+      "priceBand": {
+        "min": 110.0,
+        "max": 116.0
+      },
+      "lotSize": "1200",
+      "faceValue": 10.0,
+      "issueSize": "₹45.24 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "ROBOKIDZ EDUVENTURES LIMITED",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-21",
+      "closeDate": "2026-09-23",
+      "listingDate": "2026-09-28",
+      "priceBand": {
+        "min": 100.0,
+        "max": 106.0
+      },
+      "lotSize": "1200",
+      "faceValue": 10.0,
+      "issueSize": "₹31.09 Cr",
+      "gmp": {
+        "value": 51.0,
+        "percent": 48.11
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Vivekanand Cotspin Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-21",
+      "closeDate": "2026-09-23",
+      "listingDate": "2026-09-28",
+      "priceBand": {
+        "min": 32.0,
+        "max": 37.0
+      },
+      "lotSize": "3000",
+      "faceValue": 10.0,
+      "issueSize": "₹24.05 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
       },
       "subscriptionTimes": "-"
     }
