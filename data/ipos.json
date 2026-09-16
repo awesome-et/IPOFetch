@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T17:47:13Z",
+  "generatedAt": "2026-09-16T20:31:11Z",
   "ipos": [
     {
       "companyName": "Shakti Polytarp Limited",
@@ -102,29 +102,9 @@
       "subscriptionTimes": "1.52x"
     },
     {
-      "companyName": "Kheria Autocomp Limited",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "listingDate": "2026-09-24",
-      "priceBand": {
-        "min": 96.0,
-        "max": 101.0
-      },
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹46.44 Cr",
-      "gmp": {
-        "value": 10.0,
-        "percent": 9.9
-      },
-      "subscriptionTimes": "-"
-    },
-    {
       "companyName": "National Stock Exchange of India Limited",
       "platform": "Mainboard",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-17",
       "closeDate": "2026-09-21",
       "listingDate": null,
@@ -155,26 +135,6 @@
       "gmp": {
         "value": 7.0,
         "percent": 7.07
-      },
-      "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "SpectraA Technology Solutions Limited",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "listingDate": "2026-09-24",
-      "priceBand": {
-        "min": 112.0,
-        "max": 118.0
-      },
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹42.52 Cr",
-      "gmp": {
-        "value": 50.0,
-        "percent": 42.37
       },
       "subscriptionTimes": "-"
     },
@@ -235,6 +195,40 @@
       "gmp": {
         "value": null,
         "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Kheria Autocomp Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-09-24",
+      "priceBand": null,
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹46.44 Cr",
+      "gmp": {
+        "value": 10.0,
+        "percent": 9.9
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "SpectraA Technology Solutions Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-09-24",
+      "priceBand": null,
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹42.52 Cr",
+      "gmp": {
+        "value": 50.0,
+        "percent": 42.37
       },
       "subscriptionTimes": "-"
     }
