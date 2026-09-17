@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T08:57:54Z",
+  "generatedAt": "2026-09-17T14:30:09Z",
   "ipos": [
     {
       "companyName": "Hero Motors Limited",
@@ -16,10 +16,10 @@
       "faceValue": 10.0,
       "issueSize": "₹1000.00 Cr",
       "gmp": {
-        "value": 3.0,
-        "percent": 3.57
+        "value": 8.0,
+        "percent": 9.52
       },
-      "subscriptionTimes": "2.48x"
+      "subscriptionTimes": "3.53x"
     },
     {
       "companyName": "Jindal Supreme (India) Limited",
@@ -36,10 +36,10 @@
       "faceValue": 10.0,
       "issueSize": "₹124.88 Cr",
       "gmp": {
-        "value": 27.0,
-        "percent": 29.03
+        "value": 30.0,
+        "percent": 32.26
       },
-      "subscriptionTimes": "15.13x"
+      "subscriptionTimes": "30.88x"
     },
     {
       "companyName": "SS Retail Limited",
@@ -56,10 +56,10 @@
       "faceValue": 10.0,
       "issueSize": "₹500.00 Cr",
       "gmp": {
-        "value": 120.0,
-        "percent": 28.3
+        "value": 135.0,
+        "percent": 31.84
       },
-      "subscriptionTimes": "2.82x"
+      "subscriptionTimes": "5.9x"
     },
     {
       "companyName": "National Stock Exchange of India Limited",
@@ -93,10 +93,10 @@
       "faceValue": 10.0,
       "issueSize": "₹141.57 Cr",
       "gmp": {
-        "value": 7.0,
-        "percent": 7.07
+        "value": 4.0,
+        "percent": 4.04
       },
-      "subscriptionTimes": "0.21x"
+      "subscriptionTimes": "0.46x"
     },
     {
       "companyName": "Axiom Gas Engineering Limited",
@@ -190,10 +190,10 @@
       "faceValue": null,
       "issueSize": "₹46.44 Cr",
       "gmp": {
-        "value": 10.0,
-        "percent": 9.9
+        "value": 5.0,
+        "percent": 4.95
       },
-      "subscriptionTimes": "0.05x"
+      "subscriptionTimes": "0.2x"
     },
     {
       "companyName": "SpectraA Technology Solutions Limited",
@@ -210,7 +210,7 @@
         "value": 30.0,
         "percent": 25.42
       },
-      "subscriptionTimes": "2.46x"
+      "subscriptionTimes": "5.47x"
     }
   ]
 }
