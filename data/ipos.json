@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T02:16:24Z",
+  "generatedAt": "2026-09-17T08:57:54Z",
   "ipos": [
     {
       "companyName": "Hero Motors Limited",
@@ -16,10 +16,10 @@
       "faceValue": 10.0,
       "issueSize": "₹1000.00 Cr",
       "gmp": {
-        "value": 13.0,
-        "percent": 15.48
+        "value": 3.0,
+        "percent": 3.57
       },
-      "subscriptionTimes": "1.48x"
+      "subscriptionTimes": "2.48x"
     },
     {
       "companyName": "Jindal Supreme (India) Limited",
@@ -36,10 +36,10 @@
       "faceValue": 10.0,
       "issueSize": "₹124.88 Cr",
       "gmp": {
-        "value": 25.0,
-        "percent": 26.88
+        "value": 27.0,
+        "percent": 29.03
       },
-      "subscriptionTimes": "7.56x"
+      "subscriptionTimes": "15.13x"
     },
     {
       "companyName": "SS Retail Limited",
@@ -56,10 +56,10 @@
       "faceValue": 10.0,
       "issueSize": "₹500.00 Cr",
       "gmp": {
-        "value": 80.0,
-        "percent": 18.87
+        "value": 120.0,
+        "percent": 28.3
       },
-      "subscriptionTimes": "1.52x"
+      "subscriptionTimes": "2.82x"
     },
     {
       "companyName": "National Stock Exchange of India Limited",
@@ -95,6 +95,26 @@
       "gmp": {
         "value": 7.0,
         "percent": 7.07
+      },
+      "subscriptionTimes": "0.21x"
+    },
+    {
+      "companyName": "Axiom Gas Engineering Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-18",
+      "closeDate": "2026-09-22",
+      "listingDate": "2026-09-25",
+      "priceBand": {
+        "min": 51.0,
+        "max": 54.0
+      },
+      "lotSize": "2000",
+      "faceValue": null,
+      "issueSize": "₹50.75 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
       },
       "subscriptionTimes": "-"
     },
@@ -151,7 +171,7 @@
       },
       "lotSize": "3000",
       "faceValue": 10.0,
-      "issueSize": "₹24.05 Cr",
+      "issueSize": "₹22.20 Cr",
       "gmp": {
         "value": null,
         "percent": 0.0
@@ -173,7 +193,7 @@
         "value": 10.0,
         "percent": 9.9
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.05x"
     },
     {
       "companyName": "SpectraA Technology Solutions Limited",
@@ -187,10 +207,10 @@
       "faceValue": null,
       "issueSize": "₹42.52 Cr",
       "gmp": {
-        "value": 50.0,
-        "percent": 42.37
+        "value": 30.0,
+        "percent": 25.42
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "2.46x"
     }
   ]
 }
