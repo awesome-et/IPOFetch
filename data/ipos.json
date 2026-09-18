@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T12:24:36Z",
+  "generatedAt": "2026-09-18T17:19:50Z",
   "ipos": [
     {
       "companyName": "National Stock Exchange of India Limited",
@@ -120,7 +120,7 @@
     },
     {
       "companyName": "Varmora Granito Limited",
-      "platform": null,
+      "platform": "Mainboard",
       "status": "upcoming",
       "openDate": "2026-09-22",
       "closeDate": "2026-09-24",
@@ -130,11 +130,11 @@
         "max": 148.0
       },
       "lotSize": "101",
-      "faceValue": null,
+      "faceValue": 2.0,
       "issueSize": "₹708.02 Cr",
       "gmp": {
-        "value": 13.0,
-        "percent": 8.78
+        "value": 15.0,
+        "percent": 10.14
       },
       "subscriptionTimes": "-"
     },
@@ -227,7 +227,7 @@
         "value": 45.0,
         "percent": 38.14
       },
-      "subscriptionTimes": "19.82x"
+      "subscriptionTimes": "19.93x"
     }
   ]
 }
