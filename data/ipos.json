@@ -1,66 +1,6 @@
 {
-  "generatedAt": "2026-09-18T01:47:08Z",
+  "generatedAt": "2026-09-18T06:46:44Z",
   "ipos": [
-    {
-      "companyName": "Hero Motors Limited",
-      "platform": "Mainboard",
-      "status": "open",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "listingDate": "2026-09-23",
-      "priceBand": {
-        "min": 79.0,
-        "max": 84.0
-      },
-      "lotSize": "178",
-      "faceValue": 10.0,
-      "issueSize": "₹1000.00 Cr",
-      "gmp": {
-        "value": 5.5,
-        "percent": 6.55
-      },
-      "subscriptionTimes": "3.58x"
-    },
-    {
-      "companyName": "Jindal Supreme (India) Limited",
-      "platform": "Mainboard",
-      "status": "open",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "listingDate": "2026-09-23",
-      "priceBand": {
-        "min": 88.0,
-        "max": 93.0
-      },
-      "lotSize": "161",
-      "faceValue": 10.0,
-      "issueSize": "₹124.88 Cr",
-      "gmp": {
-        "value": 30.0,
-        "percent": 32.26
-      },
-      "subscriptionTimes": "31.54x"
-    },
-    {
-      "companyName": "SS Retail Limited",
-      "platform": "Mainboard",
-      "status": "open",
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "listingDate": "2026-09-23",
-      "priceBand": {
-        "min": 403.0,
-        "max": 424.0
-      },
-      "lotSize": "35",
-      "faceValue": 10.0,
-      "issueSize": "₹500.00 Cr",
-      "gmp": {
-        "value": 137.0,
-        "percent": 32.31
-      },
-      "subscriptionTimes": "6.1x"
-    },
     {
       "companyName": "National Stock Exchange of India Limited",
       "platform": "Mainboard",
@@ -96,7 +36,7 @@
         "value": 2.0,
         "percent": 2.02
       },
-      "subscriptionTimes": "0.47x"
+      "subscriptionTimes": "0.61x"
     },
     {
       "companyName": "FX MULTITECH LIMITED",
@@ -181,7 +121,7 @@
     {
       "companyName": "Axiom Gas Engineering Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-09-25",
@@ -193,7 +133,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.15x"
     },
     {
       "companyName": "Kheria Autocomp Limited",
@@ -207,10 +147,10 @@
       "faceValue": null,
       "issueSize": "₹46.44 Cr",
       "gmp": {
-        "value": 10.0,
-        "percent": 9.9
+        "value": 6.0,
+        "percent": 5.94
       },
-      "subscriptionTimes": "0.21x"
+      "subscriptionTimes": "0.23x"
     },
     {
       "companyName": "SpectraA Technology Solutions Limited",
@@ -227,7 +167,7 @@
         "value": 30.0,
         "percent": 25.42
       },
-      "subscriptionTimes": "5.66x"
+      "subscriptionTimes": "11.75x"
     }
   ]
 }
