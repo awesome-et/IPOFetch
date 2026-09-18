@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T06:46:44Z",
+  "generatedAt": "2026-09-18T12:24:36Z",
   "ipos": [
     {
       "companyName": "National Stock Exchange of India Limited",
@@ -36,7 +36,7 @@
         "value": 2.0,
         "percent": 2.02
       },
-      "subscriptionTimes": "0.61x"
+      "subscriptionTimes": "0.47x"
     },
     {
       "companyName": "FX MULTITECH LIMITED",
@@ -119,6 +119,66 @@
       "subscriptionTimes": "-"
     },
     {
+      "companyName": "Varmora Granito Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-09-22",
+      "closeDate": "2026-09-24",
+      "listingDate": "2026-09-29",
+      "priceBand": {
+        "min": 140.0,
+        "max": 148.0
+      },
+      "lotSize": "101",
+      "faceValue": null,
+      "issueSize": "₹708.02 Cr",
+      "gmp": {
+        "value": 13.0,
+        "percent": 8.78
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Pooja Logistics Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "listingDate": "2026-09-30",
+      "priceBand": {
+        "min": 109.0,
+        "max": 115.0
+      },
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹44.23 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "S. K. OFFSET LIMITED",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "listingDate": "2026-09-30",
+      "priceBand": {
+        "min": 119.0,
+        "max": 125.0
+      },
+      "lotSize": "1000",
+      "faceValue": 10.0,
+      "issueSize": "₹29.06 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Axiom Gas Engineering Limited",
       "platform": "SME",
       "status": "open",
@@ -133,7 +193,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.15x"
+      "subscriptionTimes": "0.62x"
     },
     {
       "companyName": "Kheria Autocomp Limited",
@@ -147,10 +207,10 @@
       "faceValue": null,
       "issueSize": "₹46.44 Cr",
       "gmp": {
-        "value": 6.0,
-        "percent": 5.94
+        "value": 10.0,
+        "percent": 9.9
       },
-      "subscriptionTimes": "0.23x"
+      "subscriptionTimes": "0.41x"
     },
     {
       "companyName": "SpectraA Technology Solutions Limited",
@@ -164,10 +224,10 @@
       "faceValue": null,
       "issueSize": "₹42.52 Cr",
       "gmp": {
-        "value": 30.0,
-        "percent": 25.42
+        "value": 45.0,
+        "percent": 38.14
       },
-      "subscriptionTimes": "11.75x"
+      "subscriptionTimes": "19.82x"
     }
   ]
 }
