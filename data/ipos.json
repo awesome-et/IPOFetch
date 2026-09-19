@@ -1,77 +1,9 @@
 {
-  "generatedAt": "2026-09-19T01:52:36Z",
+  "generatedAt": "2026-09-19T06:46:17Z",
   "ipos": [
     {
-      "companyName": "Hy Tech Engineers Limited",
-      "platform": "Mainboard",
-      "status": "upcoming",
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "listingDate": null,
-      "priceBand": {
-        "min": 50.0,
-        "max": 53.0
-      },
-      "lotSize": null,
-      "faceValue": 5.0,
-      "issueSize": null,
-      "gmp": null,
-      "subscriptionTimes": null
-    },
-    {
-      "companyName": "SKYWAYS AIR SERVICES LIMITED",
-      "platform": "Mainboard",
-      "status": "upcoming",
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "listingDate": null,
-      "priceBand": {
-        "min": 131.0,
-        "max": 138.0
-      },
-      "lotSize": null,
-      "faceValue": 10.0,
-      "issueSize": null,
-      "gmp": null,
-      "subscriptionTimes": null
-    },
-    {
-      "companyName": "Symbiotec Pharmalab Limited",
-      "platform": "Mainboard",
-      "status": "upcoming",
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "listingDate": null,
-      "priceBand": {
-        "min": 938.0,
-        "max": 988.0
-      },
-      "lotSize": null,
-      "faceValue": 2.0,
-      "issueSize": null,
-      "gmp": null,
-      "subscriptionTimes": null
-    },
-    {
-      "companyName": "Annu Projects Limited",
-      "platform": "Mainboard",
-      "status": "upcoming",
-      "openDate": "2026-08-25",
-      "closeDate": "2026-08-28",
-      "listingDate": null,
-      "priceBand": {
-        "min": 94.0,
-        "max": 99.0
-      },
-      "lotSize": null,
-      "faceValue": 10.0,
-      "issueSize": null,
-      "gmp": null,
-      "subscriptionTimes": null
-    },
-    {
       "companyName": "National Stock Exchange of India Limited",
-      "platform": null,
+      "platform": "Mainboard",
       "status": "open",
       "openDate": "2026-09-17",
       "closeDate": "2026-09-21",
@@ -81,14 +13,14 @@
         "max": 1785.0
       },
       "lotSize": null,
-      "faceValue": null,
+      "faceValue": 1.0,
       "issueSize": null,
       "gmp": null,
       "subscriptionTimes": null
     },
     {
       "companyName": "Sonaselection India Limited",
-      "platform": null,
+      "platform": "Mainboard",
       "status": "open",
       "openDate": "2026-09-17",
       "closeDate": "2026-09-21",
@@ -98,7 +30,7 @@
         "max": 99.0
       },
       "lotSize": "150",
-      "faceValue": null,
+      "faceValue": 10.0,
       "issueSize": "₹141.57 Cr",
       "gmp": {
         "value": null,
@@ -107,8 +39,88 @@
       "subscriptionTimes": "0.47x"
     },
     {
+      "companyName": "FX MULTITECH LIMITED",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-21",
+      "closeDate": "2026-09-23",
+      "listingDate": "2026-09-28",
+      "priceBand": {
+        "min": 110.0,
+        "max": 116.0
+      },
+      "lotSize": "1200",
+      "faceValue": 10.0,
+      "issueSize": "₹45.24 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "ROBOKIDZ EDUVENTURES LIMITED",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-21",
+      "closeDate": "2026-09-23",
+      "listingDate": "2026-09-28",
+      "priceBand": {
+        "min": 100.0,
+        "max": 106.0
+      },
+      "lotSize": "1200",
+      "faceValue": 10.0,
+      "issueSize": "₹31.09 Cr",
+      "gmp": {
+        "value": 51.0,
+        "percent": 48.11
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Vivekanand Cotspin Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-21",
+      "closeDate": "2026-09-23",
+      "listingDate": "2026-09-28",
+      "priceBand": {
+        "min": 35.0,
+        "max": 37.0
+      },
+      "lotSize": "3000",
+      "faceValue": 10.0,
+      "issueSize": "₹22.20 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Himalaya Nutravedics India Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-22",
+      "closeDate": "2026-09-24",
+      "listingDate": "2026-09-29",
+      "priceBand": {
+        "min": 100.0,
+        "max": 106.0
+      },
+      "lotSize": "1200",
+      "faceValue": 10.0,
+      "issueSize": "₹26.50 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Varmora Granito Limited",
-      "platform": null,
+      "platform": "Mainboard",
       "status": "upcoming",
       "openDate": "2026-09-22",
       "closeDate": "2026-09-24",
@@ -118,11 +130,31 @@
         "max": 148.0
       },
       "lotSize": "101",
-      "faceValue": null,
+      "faceValue": 2.0,
       "issueSize": "₹708.02 Cr",
       "gmp": {
         "value": 15.0,
         "percent": 10.14
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Elevate Campuses Limited",
+      "platform": "Mainboard",
+      "status": "upcoming",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "listingDate": "2026-09-30",
+      "priceBand": {
+        "min": 343.0,
+        "max": 362.0
+      },
+      "lotSize": "41",
+      "faceValue": 1.0,
+      "issueSize": "₹2100.00 Cr",
+      "gmp": {
+        "value": 16.0,
+        "percent": 4.42
       },
       "subscriptionTimes": "-"
     },
@@ -140,6 +172,46 @@
       "lotSize": "1200",
       "faceValue": null,
       "issueSize": "₹44.23 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "S. K. OFFSET LIMITED",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "listingDate": "2026-09-30",
+      "priceBand": {
+        "min": 119.0,
+        "max": 125.0
+      },
+      "lotSize": "1000",
+      "faceValue": 10.0,
+      "issueSize": "₹29.06 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Unitec Fibres Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "listingDate": "2026-09-30",
+      "priceBand": {
+        "min": 83.0,
+        "max": 88.0
+      },
+      "lotSize": "1600",
+      "faceValue": 10.0,
+      "issueSize": "₹34.47 Cr",
       "gmp": {
         "value": null,
         "percent": 0.0
