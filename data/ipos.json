@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T12:40:58Z",
+  "generatedAt": "2026-09-20T17:03:57Z",
   "ipos": [
     {
       "companyName": "National Stock Exchange of India Limited",
@@ -247,8 +247,8 @@
       "faceValue": null,
       "issueSize": "₹46.44 Cr",
       "gmp": {
-        "value": 7.0,
-        "percent": 6.93
+        "value": 5.0,
+        "percent": 4.95
       },
       "subscriptionTimes": "0.41x"
     },
