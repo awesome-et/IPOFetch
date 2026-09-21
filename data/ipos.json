@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T07:22:48Z",
+  "generatedAt": "2026-09-21T14:36:43Z",
   "ipos": [
     {
       "companyName": "National Stock Exchange of India Limited",
@@ -36,7 +36,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.29x"
     },
     {
       "companyName": "ROBOKIDZ EDUVENTURES LIMITED",
@@ -53,10 +53,10 @@
       "faceValue": 10.0,
       "issueSize": "₹31.09 Cr",
       "gmp": {
-        "value": 51.0,
-        "percent": 48.11
+        "value": 55.0,
+        "percent": 51.89
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "9.29x"
     },
     {
       "companyName": "Vivekanand Cotspin Limited",
@@ -76,7 +76,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.08x"
     },
     {
       "companyName": "Himalaya Nutravedics India Limited",
@@ -119,6 +119,46 @@
       "subscriptionTimes": "-"
     },
     {
+      "companyName": "Adroit Industries (India) Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "listingDate": "2026-09-30",
+      "priceBand": {
+        "min": 126.0,
+        "max": 134.0
+      },
+      "lotSize": "111",
+      "faceValue": null,
+      "issueSize": "₹150.71 Cr",
+      "gmp": {
+        "value": 32.0,
+        "percent": 23.88
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "ArMee Infotech Limited",
+      "platform": "Mainboard",
+      "status": "upcoming",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "listingDate": "2026-09-30",
+      "priceBand": {
+        "min": 350.0,
+        "max": 375.0
+      },
+      "lotSize": "40",
+      "faceValue": 10.0,
+      "issueSize": "₹300.00 Cr",
+      "gmp": {
+        "value": 1.0,
+        "percent": 0.27
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Elevate Campuses Limited",
       "platform": "Mainboard",
       "status": "upcoming",
@@ -135,6 +175,26 @@
       "gmp": {
         "value": 16.0,
         "percent": 4.42
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Liqvd Digital India Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "listingDate": "2026-09-30",
+      "priceBand": {
+        "min": 51.0,
+        "max": 54.0
+      },
+      "lotSize": "2000",
+      "faceValue": 5.0,
+      "issueSize": "₹39.01 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
       },
       "subscriptionTimes": "-"
     },
@@ -179,6 +239,26 @@
       "subscriptionTimes": "-"
     },
     {
+      "companyName": "Swastika Infra Limited",
+      "platform": "Mainboard",
+      "status": "upcoming",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "listingDate": "2026-09-30",
+      "priceBand": {
+        "min": 175.0,
+        "max": 185.0
+      },
+      "lotSize": "81",
+      "faceValue": 10.0,
+      "issueSize": "₹160.88 Cr",
+      "gmp": {
+        "value": 3.0,
+        "percent": 1.62
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Unitec Fibres Limited",
       "platform": "SME",
       "status": "upcoming",
@@ -213,7 +293,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.62x"
+      "subscriptionTimes": "0.85x"
     }
   ]
 }
