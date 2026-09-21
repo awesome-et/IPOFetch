@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T23:48:36Z",
+  "generatedAt": "2026-09-21T01:55:53Z",
   "ipos": [
     {
       "companyName": "National Stock Exchange of India Limited",
@@ -19,29 +19,9 @@
       "subscriptionTimes": null
     },
     {
-      "companyName": "Sonaselection India Limited",
-      "platform": "Mainboard",
-      "status": "open",
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "listingDate": "2026-09-24",
-      "priceBand": {
-        "min": 94.0,
-        "max": 99.0
-      },
-      "lotSize": "150",
-      "faceValue": 10.0,
-      "issueSize": "₹141.57 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.47x"
-    },
-    {
       "companyName": "FX MULTITECH LIMITED",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-21",
       "closeDate": "2026-09-23",
       "listingDate": "2026-09-28",
@@ -61,7 +41,7 @@
     {
       "companyName": "ROBOKIDZ EDUVENTURES LIMITED",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-21",
       "closeDate": "2026-09-23",
       "listingDate": "2026-09-28",
@@ -81,7 +61,7 @@
     {
       "companyName": "Vivekanand Cotspin Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-21",
       "closeDate": "2026-09-23",
       "listingDate": "2026-09-28",
@@ -234,40 +214,6 @@
         "percent": 0.0
       },
       "subscriptionTimes": "0.62x"
-    },
-    {
-      "companyName": "Kheria Autocomp Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-09-24",
-      "priceBand": null,
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹46.44 Cr",
-      "gmp": {
-        "value": 3.0,
-        "percent": 2.97
-      },
-      "subscriptionTimes": "0.41x"
-    },
-    {
-      "companyName": "SpectraA Technology Solutions Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-09-24",
-      "priceBand": null,
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹42.52 Cr",
-      "gmp": {
-        "value": 45.0,
-        "percent": 38.14
-      },
-      "subscriptionTimes": "19.93x"
     }
   ]
 }
