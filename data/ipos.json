@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:47:31Z",
+  "generatedAt": "2026-09-22T20:33:21Z",
   "ipos": [
     {
       "companyName": "FX MULTITECH LIMITED",
@@ -136,8 +136,8 @@
       "faceValue": 10.0,
       "issueSize": "₹300.00 Cr",
       "gmp": {
-        "value": 12.0,
-        "percent": 3.2
+        "value": 46.0,
+        "percent": 12.27
       },
       "subscriptionTimes": "-"
     },
@@ -175,26 +175,6 @@
       "lotSize": "2000",
       "faceValue": 5.0,
       "issueSize": "₹39.01 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "Pooja Logistics Limited",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "listingDate": "2026-09-30",
-      "priceBand": {
-        "min": 109.0,
-        "max": 115.0
-      },
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹44.23 Cr",
       "gmp": {
         "value": null,
         "percent": 0.0
@@ -395,6 +375,37 @@
       "lotSize": "1200",
       "faceValue": 10.0,
       "issueSize": "₹24.95 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Coreintegra Consulting Services Limited",
+      "platform": null,
+      "status": "open",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": null,
+      "priceBand": null,
+      "lotSize": null,
+      "faceValue": null,
+      "issueSize": null,
+      "gmp": null,
+      "subscriptionTimes": null
+    },
+    {
+      "companyName": "Pooja Logistics Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-09-30",
+      "priceBand": null,
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹44.23 Cr",
       "gmp": {
         "value": null,
         "percent": 0.0
