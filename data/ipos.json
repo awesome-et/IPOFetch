@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:20:04Z",
+  "generatedAt": "2026-09-22T06:56:06Z",
   "ipos": [
     {
       "companyName": "FX MULTITECH LIMITED",
@@ -39,7 +39,7 @@
         "value": 55.0,
         "percent": 51.89
       },
-      "subscriptionTimes": "9.29x"
+      "subscriptionTimes": "30.06x"
     },
     {
       "companyName": "Vivekanand Cotspin Limited",
@@ -59,12 +59,12 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.08x"
+      "subscriptionTimes": "0.14x"
     },
     {
       "companyName": "Himalaya Nutravedics India Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-22",
       "closeDate": "2026-09-24",
       "listingDate": "2026-09-29",
@@ -79,12 +79,12 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.05x"
     },
     {
       "companyName": "Varmora Granito Limited",
       "platform": "Mainboard",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-22",
       "closeDate": "2026-09-24",
       "listingDate": "2026-09-29",
@@ -96,10 +96,10 @@
       "faceValue": 2.0,
       "issueSize": "₹708.02 Cr",
       "gmp": {
-        "value": 9.0,
-        "percent": 6.08
+        "value": 7.5,
+        "percent": 5.07
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.06x"
     },
     {
       "companyName": "Adroit Industries (India) Limited",
@@ -156,8 +156,8 @@
       "faceValue": 1.0,
       "issueSize": "₹2100.00 Cr",
       "gmp": {
-        "value": 16.0,
-        "percent": 4.42
+        "value": 14.0,
+        "percent": 3.87
       },
       "subscriptionTimes": "-"
     },
@@ -236,8 +236,8 @@
       "faceValue": 10.0,
       "issueSize": "₹160.88 Cr",
       "gmp": {
-        "value": 8.0,
-        "percent": 4.32
+        "value": 10.0,
+        "percent": 5.41
       },
       "subscriptionTimes": "-"
     },
@@ -260,23 +260,6 @@
         "percent": 0.0
       },
       "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "Axiom Gas Engineering Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-09-25",
-      "priceBand": null,
-      "lotSize": "2000",
-      "faceValue": null,
-      "issueSize": "₹50.75 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.85x"
     }
   ]
 }
