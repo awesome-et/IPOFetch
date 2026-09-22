@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:53:00Z",
+  "generatedAt": "2026-09-22T17:47:31Z",
   "ipos": [
     {
       "companyName": "FX MULTITECH LIMITED",
@@ -96,10 +96,10 @@
       "faceValue": 2.0,
       "issueSize": "₹708.02 Cr",
       "gmp": {
-        "value": 4.0,
-        "percent": 2.7
+        "value": 3.0,
+        "percent": 2.03
       },
-      "subscriptionTimes": "0.11x"
+      "subscriptionTimes": "0.12x"
     },
     {
       "companyName": "Adroit Industries (India) Limited",
@@ -116,8 +116,8 @@
       "faceValue": 10.0,
       "issueSize": "₹150.71 Cr",
       "gmp": {
-        "value": 28.0,
-        "percent": 20.9
+        "value": 34.0,
+        "percent": 25.37
       },
       "subscriptionTimes": "-"
     },
@@ -236,8 +236,8 @@
       "faceValue": 10.0,
       "issueSize": "₹160.88 Cr",
       "gmp": {
-        "value": 8.5,
-        "percent": 4.59
+        "value": 8.0,
+        "percent": 4.32
       },
       "subscriptionTimes": "-"
     },
@@ -262,8 +262,28 @@
       "subscriptionTimes": "-"
     },
     {
+      "companyName": "A-One Steels India Limited",
+      "platform": "Mainboard",
+      "status": "upcoming",
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "listingDate": "2026-10-01",
+      "priceBand": {
+        "min": 385.0,
+        "max": 405.0
+      },
+      "lotSize": "37",
+      "faceValue": 10.0,
+      "issueSize": "₹405.00 Cr",
+      "gmp": {
+        "value": 50.0,
+        "percent": 12.35
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Moneyview Limited",
-      "platform": null,
+      "platform": "Mainboard",
       "status": "upcoming",
       "openDate": "2026-09-24",
       "closeDate": "2026-09-28",
@@ -273,11 +293,51 @@
         "max": 34.0
       },
       "lotSize": "441",
-      "faceValue": null,
+      "faceValue": 1.0,
       "issueSize": "₹1091.68 Cr",
       "gmp": {
-        "value": 10.0,
-        "percent": 29.41
+        "value": 11.0,
+        "percent": 32.35
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "PESHWA WHEAT LIMITED",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "listingDate": "2026-10-01",
+      "priceBand": {
+        "min": 95.0,
+        "max": 101.0
+      },
+      "lotSize": "1200",
+      "faceValue": 10.0,
+      "issueSize": "₹53.52 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "ROOPA SCREEN LIMITED",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "listingDate": "2026-10-01",
+      "priceBand": {
+        "min": 60.0,
+        "max": 64.0
+      },
+      "lotSize": "2000",
+      "faceValue": 10.0,
+      "issueSize": "₹19.20 Cr",
+      "gmp": {
+        "value": 14.0,
+        "percent": 21.88
       },
       "subscriptionTimes": "-"
     },
@@ -315,6 +375,26 @@
       "lotSize": "1200",
       "faceValue": null,
       "issueSize": "₹68.03 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Sai Urja Indo Ventures Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "listingDate": "2026-10-05",
+      "priceBand": {
+        "min": 107.0,
+        "max": 113.0
+      },
+      "lotSize": "1200",
+      "faceValue": 10.0,
+      "issueSize": "₹24.95 Cr",
       "gmp": {
         "value": null,
         "percent": 0.0
