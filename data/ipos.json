@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T06:56:06Z",
+  "generatedAt": "2026-09-22T12:53:00Z",
   "ipos": [
     {
       "companyName": "FX MULTITECH LIMITED",
@@ -19,7 +19,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.29x"
+      "subscriptionTimes": "0.38x"
     },
     {
       "companyName": "ROBOKIDZ EDUVENTURES LIMITED",
@@ -36,10 +36,10 @@
       "faceValue": 10.0,
       "issueSize": "₹31.09 Cr",
       "gmp": {
-        "value": 55.0,
-        "percent": 51.89
+        "value": 65.0,
+        "percent": 61.32
       },
-      "subscriptionTimes": "30.06x"
+      "subscriptionTimes": "72.74x"
     },
     {
       "companyName": "Vivekanand Cotspin Limited",
@@ -59,7 +59,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.14x"
+      "subscriptionTimes": "0.17x"
     },
     {
       "companyName": "Himalaya Nutravedics India Limited",
@@ -79,7 +79,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.05x"
+      "subscriptionTimes": "0.11x"
     },
     {
       "companyName": "Varmora Granito Limited",
@@ -96,10 +96,10 @@
       "faceValue": 2.0,
       "issueSize": "₹708.02 Cr",
       "gmp": {
-        "value": 7.5,
-        "percent": 5.07
+        "value": 4.0,
+        "percent": 2.7
       },
-      "subscriptionTimes": "0.06x"
+      "subscriptionTimes": "0.11x"
     },
     {
       "companyName": "Adroit Industries (India) Limited",
@@ -116,8 +116,8 @@
       "faceValue": 10.0,
       "issueSize": "₹150.71 Cr",
       "gmp": {
-        "value": 32.0,
-        "percent": 23.88
+        "value": 28.0,
+        "percent": 20.9
       },
       "subscriptionTimes": "-"
     },
@@ -156,8 +156,8 @@
       "faceValue": 1.0,
       "issueSize": "₹2100.00 Cr",
       "gmp": {
-        "value": 14.0,
-        "percent": 3.87
+        "value": 5.0,
+        "percent": 1.38
       },
       "subscriptionTimes": "-"
     },
@@ -236,8 +236,8 @@
       "faceValue": 10.0,
       "issueSize": "₹160.88 Cr",
       "gmp": {
-        "value": 10.0,
-        "percent": 5.41
+        "value": 8.5,
+        "percent": 4.59
       },
       "subscriptionTimes": "-"
     },
@@ -255,6 +255,66 @@
       "lotSize": "1600",
       "faceValue": 10.0,
       "issueSize": "₹34.47 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Moneyview Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "listingDate": "2026-10-01",
+      "priceBand": {
+        "min": 32.0,
+        "max": 34.0
+      },
+      "lotSize": "441",
+      "faceValue": null,
+      "issueSize": "₹1091.68 Cr",
+      "gmp": {
+        "value": 10.0,
+        "percent": 29.41
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Bench Mark Infotech Services Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "listingDate": "2026-10-05",
+      "priceBand": {
+        "min": 104.0,
+        "max": 110.0
+      },
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹42.44 Cr",
+      "gmp": {
+        "value": 12.0,
+        "percent": 10.91
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Himalayan Solar Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "listingDate": "2026-10-05",
+      "priceBand": {
+        "min": 98.0,
+        "max": 103.0
+      },
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹68.03 Cr",
       "gmp": {
         "value": null,
         "percent": 0.0
