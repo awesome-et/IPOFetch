@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T08:52:29Z",
+  "generatedAt": "2026-09-23T14:29:26Z",
   "ipos": [
     {
       "companyName": "Himalaya Nutravedics India Limited",
@@ -202,6 +202,26 @@
       "subscriptionTimes": "-"
     },
     {
+      "companyName": "Green Asia Impex Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "listingDate": "2026-10-01",
+      "priceBand": {
+        "min": 85.0,
+        "max": 90.0
+      },
+      "lotSize": "1600",
+      "faceValue": null,
+      "issueSize": "₹60.10 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Moneyview Limited",
       "platform": "Mainboard",
       "status": "upcoming",
@@ -262,6 +282,26 @@
       "subscriptionTimes": "-"
     },
     {
+      "companyName": "AceVector Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "listingDate": "2026-10-05",
+      "priceBand": {
+        "min": 30.0,
+        "max": 32.0
+      },
+      "lotSize": "468",
+      "faceValue": null,
+      "issueSize": "₹420.00 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Bench Mark Infotech Services Limited",
       "platform": "SME",
       "status": "upcoming",
@@ -278,6 +318,26 @@
       "gmp": {
         "value": 12.0,
         "percent": 10.91
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "German Green Steel and Power Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "listingDate": "2026-10-05",
+      "priceBand": {
+        "min": 132.0,
+        "max": 139.0
+      },
+      "lotSize": "107",
+      "faceValue": null,
+      "issueSize": "₹303.90 Cr",
+      "gmp": {
+        "value": 15.0,
+        "percent": 10.79
       },
       "subscriptionTimes": "-"
     },
@@ -318,6 +378,26 @@
       "gmp": {
         "value": 40.0,
         "percent": 14.71
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Runwal Enterprises Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "listingDate": "2026-10-05",
+      "priceBand": {
+        "min": 290.0,
+        "max": 302.0
+      },
+      "lotSize": "49",
+      "faceValue": null,
+      "issueSize": "₹499.83 Cr",
+      "gmp": {
+        "value": 18.0,
+        "percent": 5.9
       },
       "subscriptionTimes": "-"
     },
