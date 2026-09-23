@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T19:16:42Z",
+  "generatedAt": "2026-09-23T22:30:54Z",
   "ipos": [
     {
       "companyName": "Varmora Granito Limited",
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹150.71 Cr",
       "gmp": {
-        "value": 35.0,
-        "percent": 26.12
+        "value": 34.0,
+        "percent": 25.37
       },
       "subscriptionTimes": "5.22x"
     },
