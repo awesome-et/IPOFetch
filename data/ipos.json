@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-09-23T14:29:26Z",
+  "generatedAt": "2026-09-23T19:16:42Z",
   "ipos": [
     {
-      "companyName": "Himalaya Nutravedics India Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": "2026-09-22",
-      "closeDate": "2026-09-24",
-      "listingDate": "2026-09-29",
-      "priceBand": {
-        "min": 100.0,
-        "max": 106.0
-      },
-      "lotSize": "1200",
-      "faceValue": 10.0,
-      "issueSize": "₹26.50 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.23x"
-    },
-    {
       "companyName": "Varmora Granito Limited",
-      "platform": "Mainboard",
+      "platform": null,
       "status": "open",
       "openDate": "2026-09-22",
       "closeDate": "2026-09-24",
@@ -33,17 +13,17 @@
         "max": 148.0
       },
       "lotSize": "101",
-      "faceValue": 2.0,
+      "faceValue": null,
       "issueSize": "₹708.02 Cr",
       "gmp": {
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.17x"
+      "subscriptionTimes": "0.27x"
     },
     {
       "companyName": "Adroit Industries (India) Limited",
-      "platform": "Mainboard",
+      "platform": null,
       "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
@@ -53,17 +33,17 @@
         "max": 134.0
       },
       "lotSize": "111",
-      "faceValue": 10.0,
+      "faceValue": null,
       "issueSize": "₹150.71 Cr",
       "gmp": {
-        "value": 33.0,
-        "percent": 24.63
+        "value": 35.0,
+        "percent": 26.12
       },
-      "subscriptionTimes": "1.72x"
+      "subscriptionTimes": "5.22x"
     },
     {
       "companyName": "ArMee Infotech Limited",
-      "platform": "Mainboard",
+      "platform": null,
       "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
@@ -73,17 +53,17 @@
         "max": 375.0
       },
       "lotSize": "40",
-      "faceValue": 10.0,
+      "faceValue": null,
       "issueSize": "₹300.00 Cr",
       "gmp": {
-        "value": 56.0,
-        "percent": 14.93
+        "value": 51.0,
+        "percent": 13.6
       },
-      "subscriptionTimes": "0.16x"
+      "subscriptionTimes": "0.57x"
     },
     {
       "companyName": "Elevate Campuses Limited",
-      "platform": "Mainboard",
+      "platform": null,
       "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
@@ -93,57 +73,17 @@
         "max": 362.0
       },
       "lotSize": "41",
-      "faceValue": 1.0,
+      "faceValue": null,
       "issueSize": "₹2100.00 Cr",
       "gmp": {
-        "value": 5.0,
-        "percent": 1.38
+        "value": 4.5,
+        "percent": 1.24
       },
-      "subscriptionTimes": "0.05x"
-    },
-    {
-      "companyName": "Liqvd Digital India Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "listingDate": "2026-09-30",
-      "priceBand": {
-        "min": 51.0,
-        "max": 54.0
-      },
-      "lotSize": "2000",
-      "faceValue": 5.0,
-      "issueSize": "₹39.01 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.19x"
-    },
-    {
-      "companyName": "S. K. OFFSET LIMITED",
-      "platform": "SME",
-      "status": "open",
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "listingDate": "2026-09-30",
-      "priceBand": {
-        "min": 119.0,
-        "max": 125.0
-      },
-      "lotSize": "1000",
-      "faceValue": 10.0,
-      "issueSize": "₹29.06 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0x"
+      "subscriptionTimes": "0.21x"
     },
     {
       "companyName": "Swastika Infra Limited",
-      "platform": "Mainboard",
+      "platform": null,
       "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
@@ -153,37 +93,17 @@
         "max": 185.0
       },
       "lotSize": "81",
-      "faceValue": 10.0,
+      "faceValue": null,
       "issueSize": "₹160.88 Cr",
       "gmp": {
-        "value": 7.0,
-        "percent": 3.78
+        "value": 9.5,
+        "percent": 5.14
       },
-      "subscriptionTimes": "0.34x"
-    },
-    {
-      "companyName": "Unitec Fibres Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "listingDate": "2026-09-30",
-      "priceBand": {
-        "min": 83.0,
-        "max": 88.0
-      },
-      "lotSize": "1600",
-      "faceValue": 10.0,
-      "issueSize": "₹34.47 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.03x"
+      "subscriptionTimes": "1x"
     },
     {
       "companyName": "A-One Steels India Limited",
-      "platform": "Mainboard",
+      "platform": null,
       "status": "upcoming",
       "openDate": "2026-09-24",
       "closeDate": "2026-09-28",
@@ -193,37 +113,17 @@
         "max": 405.0
       },
       "lotSize": "37",
-      "faceValue": 10.0,
+      "faceValue": null,
       "issueSize": "₹405.00 Cr",
       "gmp": {
-        "value": 50.0,
-        "percent": 12.35
-      },
-      "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "Green Asia Impex Limited",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "listingDate": "2026-10-01",
-      "priceBand": {
-        "min": 85.0,
-        "max": 90.0
-      },
-      "lotSize": "1600",
-      "faceValue": null,
-      "issueSize": "₹60.10 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
+        "value": 55.0,
+        "percent": 13.58
       },
       "subscriptionTimes": "-"
     },
     {
       "companyName": "Moneyview Limited",
-      "platform": "Mainboard",
+      "platform": null,
       "status": "upcoming",
       "openDate": "2026-09-24",
       "closeDate": "2026-09-28",
@@ -233,51 +133,11 @@
         "max": 34.0
       },
       "lotSize": "441",
-      "faceValue": 1.0,
+      "faceValue": null,
       "issueSize": "₹1091.68 Cr",
       "gmp": {
-        "value": 12.0,
-        "percent": 35.29
-      },
-      "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "PESHWA WHEAT LIMITED",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "listingDate": "2026-10-01",
-      "priceBand": {
-        "min": 95.0,
-        "max": 101.0
-      },
-      "lotSize": "1200",
-      "faceValue": 10.0,
-      "issueSize": "₹53.52 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "ROOPA SCREEN LIMITED",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "listingDate": "2026-10-01",
-      "priceBand": {
-        "min": 60.0,
-        "max": 64.0
-      },
-      "lotSize": "2000",
-      "faceValue": 10.0,
-      "issueSize": "₹19.20 Cr",
-      "gmp": {
         "value": 14.0,
-        "percent": 21.88
+        "percent": 41.18
       },
       "subscriptionTimes": "-"
     },
@@ -336,8 +196,8 @@
       "faceValue": null,
       "issueSize": "₹303.90 Cr",
       "gmp": {
-        "value": 15.0,
-        "percent": 10.79
+        "value": 24.0,
+        "percent": 17.27
       },
       "subscriptionTimes": "-"
     },
@@ -363,7 +223,7 @@
     },
     {
       "companyName": "Orient Cables (India) Limited",
-      "platform": "Mainboard",
+      "platform": null,
       "status": "upcoming",
       "openDate": "2026-09-25",
       "closeDate": "2026-09-29",
@@ -373,11 +233,11 @@
         "max": 272.0
       },
       "lotSize": "55",
-      "faceValue": 1.0,
+      "faceValue": null,
       "issueSize": "₹552.00 Cr",
       "gmp": {
-        "value": 40.0,
-        "percent": 14.71
+        "value": 45.0,
+        "percent": 16.54
       },
       "subscriptionTimes": "-"
     },
@@ -396,28 +256,8 @@
       "faceValue": null,
       "issueSize": "₹499.83 Cr",
       "gmp": {
-        "value": 18.0,
-        "percent": 5.9
-      },
-      "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "Sai Urja Indo Ventures Limited",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "listingDate": "2026-10-05",
-      "priceBand": {
-        "min": 107.0,
-        "max": 113.0
-      },
-      "lotSize": "1200",
-      "faceValue": 10.0,
-      "issueSize": "₹24.95 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
+        "value": 17.0,
+        "percent": 5.57
       },
       "subscriptionTimes": "-"
     },
@@ -436,6 +276,23 @@
       "subscriptionTimes": null
     },
     {
+      "companyName": "Green Asia Impex Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-10-01",
+      "priceBand": null,
+      "lotSize": "1600",
+      "faceValue": null,
+      "issueSize": "₹60.10 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Pooja Logistics Limited",
       "platform": "SME",
       "status": "open",
@@ -450,7 +307,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.14x"
+      "subscriptionTimes": "0.34x"
     }
   ]
 }
