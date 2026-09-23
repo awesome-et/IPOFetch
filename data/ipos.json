@@ -1,66 +1,6 @@
 {
-  "generatedAt": "2026-09-22T23:53:12Z",
+  "generatedAt": "2026-09-23T02:01:15Z",
   "ipos": [
-    {
-      "companyName": "FX MULTITECH LIMITED",
-      "platform": "SME",
-      "status": "open",
-      "openDate": "2026-09-21",
-      "closeDate": "2026-09-23",
-      "listingDate": "2026-09-28",
-      "priceBand": {
-        "min": 110.0,
-        "max": 116.0
-      },
-      "lotSize": "1200",
-      "faceValue": 10.0,
-      "issueSize": "₹45.24 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.38x"
-    },
-    {
-      "companyName": "ROBOKIDZ EDUVENTURES LIMITED",
-      "platform": "SME",
-      "status": "open",
-      "openDate": "2026-09-21",
-      "closeDate": "2026-09-23",
-      "listingDate": "2026-09-28",
-      "priceBand": {
-        "min": 100.0,
-        "max": 106.0
-      },
-      "lotSize": "1200",
-      "faceValue": 10.0,
-      "issueSize": "₹31.09 Cr",
-      "gmp": {
-        "value": 65.0,
-        "percent": 61.32
-      },
-      "subscriptionTimes": "72.74x"
-    },
-    {
-      "companyName": "Vivekanand Cotspin Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": "2026-09-21",
-      "closeDate": "2026-09-23",
-      "listingDate": "2026-09-28",
-      "priceBand": {
-        "min": 35.0,
-        "max": 37.0
-      },
-      "lotSize": "3000",
-      "faceValue": 10.0,
-      "issueSize": "₹22.20 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.17x"
-    },
     {
       "companyName": "Himalaya Nutravedics India Limited",
       "platform": "SME",
@@ -104,7 +44,7 @@
     {
       "companyName": "Adroit Industries (India) Limited",
       "platform": "Mainboard",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "listingDate": "2026-09-30",
@@ -124,7 +64,7 @@
     {
       "companyName": "ArMee Infotech Limited",
       "platform": "Mainboard",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "listingDate": "2026-09-30",
@@ -144,7 +84,7 @@
     {
       "companyName": "Elevate Campuses Limited",
       "platform": "Mainboard",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "listingDate": "2026-09-30",
@@ -164,7 +104,7 @@
     {
       "companyName": "Liqvd Digital India Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "listingDate": "2026-09-30",
@@ -184,7 +124,7 @@
     {
       "companyName": "S. K. OFFSET LIMITED",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "listingDate": "2026-09-30",
@@ -204,7 +144,7 @@
     {
       "companyName": "Swastika Infra Limited",
       "platform": "Mainboard",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "listingDate": "2026-09-30",
@@ -224,7 +164,7 @@
     {
       "companyName": "Unitec Fibres Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-23",
       "closeDate": "2026-09-25",
       "listingDate": "2026-09-30",
@@ -398,7 +338,7 @@
     {
       "companyName": "Pooja Logistics Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-09-30",
