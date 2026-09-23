@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T02:01:15Z",
+  "generatedAt": "2026-09-23T08:52:29Z",
   "ipos": [
     {
       "companyName": "Himalaya Nutravedics India Limited",
@@ -19,7 +19,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.11x"
+      "subscriptionTimes": "0.23x"
     },
     {
       "companyName": "Varmora Granito Limited",
@@ -36,10 +36,10 @@
       "faceValue": 2.0,
       "issueSize": "₹708.02 Cr",
       "gmp": {
-        "value": 3.0,
-        "percent": 2.03
+        "value": null,
+        "percent": 0.0
       },
-      "subscriptionTimes": "0.12x"
+      "subscriptionTimes": "0.17x"
     },
     {
       "companyName": "Adroit Industries (India) Limited",
@@ -56,10 +56,10 @@
       "faceValue": 10.0,
       "issueSize": "₹150.71 Cr",
       "gmp": {
-        "value": 34.0,
-        "percent": 25.37
+        "value": 33.0,
+        "percent": 24.63
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "1.72x"
     },
     {
       "companyName": "ArMee Infotech Limited",
@@ -76,10 +76,10 @@
       "faceValue": 10.0,
       "issueSize": "₹300.00 Cr",
       "gmp": {
-        "value": 46.0,
-        "percent": 12.27
+        "value": 56.0,
+        "percent": 14.93
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.16x"
     },
     {
       "companyName": "Elevate Campuses Limited",
@@ -99,7 +99,7 @@
         "value": 5.0,
         "percent": 1.38
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.05x"
     },
     {
       "companyName": "Liqvd Digital India Limited",
@@ -119,7 +119,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.19x"
     },
     {
       "companyName": "S. K. OFFSET LIMITED",
@@ -139,7 +139,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0x"
     },
     {
       "companyName": "Swastika Infra Limited",
@@ -156,10 +156,10 @@
       "faceValue": 10.0,
       "issueSize": "₹160.88 Cr",
       "gmp": {
-        "value": 8.0,
-        "percent": 4.32
+        "value": 7.0,
+        "percent": 3.78
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.34x"
     },
     {
       "companyName": "Unitec Fibres Limited",
@@ -179,7 +179,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.03x"
     },
     {
       "companyName": "A-One Steels India Limited",
@@ -216,8 +216,8 @@
       "faceValue": 1.0,
       "issueSize": "₹1091.68 Cr",
       "gmp": {
-        "value": 11.0,
-        "percent": 32.35
+        "value": 12.0,
+        "percent": 35.29
       },
       "subscriptionTimes": "-"
     },
@@ -302,6 +302,26 @@
       "subscriptionTimes": "-"
     },
     {
+      "companyName": "Orient Cables (India) Limited",
+      "platform": "Mainboard",
+      "status": "upcoming",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "listingDate": "2026-10-05",
+      "priceBand": {
+        "min": 258.0,
+        "max": 272.0
+      },
+      "lotSize": "55",
+      "faceValue": 1.0,
+      "issueSize": "₹552.00 Cr",
+      "gmp": {
+        "value": 40.0,
+        "percent": 14.71
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Sai Urja Indo Ventures Limited",
       "platform": "SME",
       "status": "upcoming",
@@ -350,7 +370,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.14x"
     }
   ]
 }
