@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-09-23T22:30:54Z",
+  "generatedAt": "2026-09-24T01:50:15Z",
   "ipos": [
-    {
-      "companyName": "Varmora Granito Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-22",
-      "closeDate": "2026-09-24",
-      "listingDate": "2026-09-29",
-      "priceBand": {
-        "min": 140.0,
-        "max": 148.0
-      },
-      "lotSize": "101",
-      "faceValue": null,
-      "issueSize": "₹708.02 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.27x"
-    },
     {
       "companyName": "Adroit Industries (India) Limited",
       "platform": null,
@@ -104,7 +84,7 @@
     {
       "companyName": "A-One Steels India Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-24",
       "closeDate": "2026-09-28",
       "listingDate": "2026-10-01",
@@ -124,7 +104,7 @@
     {
       "companyName": "Moneyview Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-24",
       "closeDate": "2026-09-28",
       "listingDate": "2026-10-01",
@@ -278,7 +258,7 @@
     {
       "companyName": "Green Asia Impex Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-10-01",
