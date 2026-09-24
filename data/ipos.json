@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:50:15Z",
+  "generatedAt": "2026-09-24T06:51:03Z",
   "ipos": [
     {
       "companyName": "Adroit Industries (India) Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹150.71 Cr",
       "gmp": {
-        "value": 34.0,
-        "percent": 25.37
+        "value": 30.0,
+        "percent": 22.39
       },
-      "subscriptionTimes": "5.22x"
+      "subscriptionTimes": "10.34x"
     },
     {
       "companyName": "ArMee Infotech Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹300.00 Cr",
       "gmp": {
-        "value": 51.0,
-        "percent": 13.6
+        "value": 40.0,
+        "percent": 10.67
       },
-      "subscriptionTimes": "0.57x"
+      "subscriptionTimes": "0.9x"
     },
     {
       "companyName": "Elevate Campuses Limited",
@@ -56,10 +56,10 @@
       "faceValue": null,
       "issueSize": "₹2100.00 Cr",
       "gmp": {
-        "value": 4.5,
-        "percent": 1.24
+        "value": 2.0,
+        "percent": 0.55
       },
-      "subscriptionTimes": "0.21x"
+      "subscriptionTimes": "0.23x"
     },
     {
       "companyName": "Swastika Infra Limited",
@@ -76,10 +76,10 @@
       "faceValue": null,
       "issueSize": "₹160.88 Cr",
       "gmp": {
-        "value": 9.5,
-        "percent": 5.14
+        "value": 4.0,
+        "percent": 2.16
       },
-      "subscriptionTimes": "1x"
+      "subscriptionTimes": "1.28x"
     },
     {
       "companyName": "A-One Steels India Limited",
@@ -99,7 +99,7 @@
         "value": 55.0,
         "percent": 13.58
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.23x"
     },
     {
       "companyName": "Moneyview Limited",
@@ -116,10 +116,10 @@
       "faceValue": null,
       "issueSize": "₹1091.68 Cr",
       "gmp": {
-        "value": 14.0,
-        "percent": 41.18
+        "value": 13.5,
+        "percent": 39.71
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.55x"
     },
     {
       "companyName": "AceVector Limited",
@@ -270,7 +270,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0x"
     },
     {
       "companyName": "Pooja Logistics Limited",
@@ -287,7 +287,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.34x"
+      "subscriptionTimes": "0.38x"
     }
   ]
 }
