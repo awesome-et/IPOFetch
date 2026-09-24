@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:57:17Z",
+  "generatedAt": "2026-09-24T18:01:24Z",
   "ipos": [
     {
       "companyName": "Adroit Industries (India) Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹150.71 Cr",
       "gmp": {
-        "value": 35.0,
-        "percent": 26.12
+        "value": 37.0,
+        "percent": 27.61
       },
-      "subscriptionTimes": "13.9x"
+      "subscriptionTimes": "18.08x"
     },
     {
       "companyName": "ArMee Infotech Limited",
@@ -39,7 +39,7 @@
         "value": 20.0,
         "percent": 5.33
       },
-      "subscriptionTimes": "1.09x"
+      "subscriptionTimes": "1.26x"
     },
     {
       "companyName": "Elevate Campuses Limited",
@@ -56,10 +56,10 @@
       "faceValue": null,
       "issueSize": "₹2100.00 Cr",
       "gmp": {
-        "value": 2.0,
-        "percent": 0.55
+        "value": 2.5,
+        "percent": 0.69
       },
-      "subscriptionTimes": "0.23x"
+      "subscriptionTimes": "0.24x"
     },
     {
       "companyName": "Swastika Infra Limited",
@@ -76,10 +76,10 @@
       "faceValue": null,
       "issueSize": "₹160.88 Cr",
       "gmp": {
-        "value": 8.0,
-        "percent": 4.32
+        "value": 9.0,
+        "percent": 4.86
       },
-      "subscriptionTimes": "1.44x"
+      "subscriptionTimes": "1.7x"
     },
     {
       "companyName": "A-One Steels India Limited",
@@ -96,10 +96,10 @@
       "faceValue": null,
       "issueSize": "₹405.00 Cr",
       "gmp": {
-        "value": 55.0,
-        "percent": 13.58
+        "value": 49.0,
+        "percent": 12.1
       },
-      "subscriptionTimes": "0.41x"
+      "subscriptionTimes": "0.61x"
     },
     {
       "companyName": "Moneyview Limited",
@@ -116,10 +116,10 @@
       "faceValue": null,
       "issueSize": "₹1091.68 Cr",
       "gmp": {
-        "value": 12.5,
-        "percent": 36.76
+        "value": 15.5,
+        "percent": 45.59
       },
-      "subscriptionTimes": "1.01x"
+      "subscriptionTimes": "1.49x"
     },
     {
       "companyName": "AceVector Limited",
@@ -136,8 +136,8 @@
       "faceValue": null,
       "issueSize": "₹420.00 Cr",
       "gmp": {
-        "value": null,
-        "percent": 0.0
+        "value": 2.0,
+        "percent": 6.25
       },
       "subscriptionTimes": "-"
     },
@@ -156,8 +156,8 @@
       "faceValue": null,
       "issueSize": "₹42.44 Cr",
       "gmp": {
-        "value": 12.0,
-        "percent": 10.91
+        "value": null,
+        "percent": 0.0
       },
       "subscriptionTimes": "-"
     },
@@ -176,8 +176,8 @@
       "faceValue": null,
       "issueSize": "₹303.90 Cr",
       "gmp": {
-        "value": 27.5,
-        "percent": 19.78
+        "value": 29.0,
+        "percent": 20.86
       },
       "subscriptionTimes": "-"
     },
@@ -216,8 +216,8 @@
       "faceValue": null,
       "issueSize": "₹552.00 Cr",
       "gmp": {
-        "value": 50.0,
-        "percent": 18.38
+        "value": 113.0,
+        "percent": 41.54
       },
       "subscriptionTimes": "-"
     },
@@ -236,8 +236,48 @@
       "faceValue": null,
       "issueSize": "₹499.83 Cr",
       "gmp": {
-        "value": 23.0,
-        "percent": 7.54
+        "value": 37.0,
+        "percent": 12.13
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Shah Investor's Home Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "listingDate": "2026-10-06",
+      "priceBand": {
+        "min": 159.0,
+        "max": 167.0
+      },
+      "lotSize": "85",
+      "faceValue": null,
+      "issueSize": "₹90.17 Cr",
+      "gmp": {
+        "value": 12.0,
+        "percent": 7.19
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Srit India Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "listingDate": "2026-10-06",
+      "priceBand": {
+        "min": 123.0,
+        "max": 130.0
+      },
+      "lotSize": "115",
+      "faceValue": null,
+      "issueSize": "₹218.40 Cr",
+      "gmp": {
+        "value": 21.0,
+        "percent": 16.15
       },
       "subscriptionTimes": "-"
     },
@@ -287,7 +327,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.41x"
+      "subscriptionTimes": "0.39x"
     }
   ]
 }
