@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T18:01:24Z",
+  "generatedAt": "2026-09-24T22:46:25Z",
   "ipos": [
     {
       "companyName": "Adroit Industries (India) Limited",
@@ -142,26 +142,6 @@
       "subscriptionTimes": "-"
     },
     {
-      "companyName": "Bench Mark Infotech Services Limited",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "listingDate": "2026-10-05",
-      "priceBand": {
-        "min": 104.0,
-        "max": 110.0
-      },
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹42.44 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "-"
-    },
-    {
       "companyName": "German Green Steel and Power Limited",
       "platform": null,
       "status": "upcoming",
@@ -178,26 +158,6 @@
       "gmp": {
         "value": 29.0,
         "percent": 20.86
-      },
-      "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "Himalayan Solar Limited",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "listingDate": "2026-10-05",
-      "priceBand": {
-        "min": 98.0,
-        "max": 103.0
-      },
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹68.03 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
       },
       "subscriptionTimes": "-"
     },
@@ -282,6 +242,23 @@
       "subscriptionTimes": "-"
     },
     {
+      "companyName": "Bench Mark Infotech Services Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-10-05",
+      "priceBand": null,
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹42.44 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Coreintegra Consulting Services Limited",
       "platform": null,
       "status": "open",
@@ -311,6 +288,23 @@
         "percent": 0.0
       },
       "subscriptionTimes": "0.01x"
+    },
+    {
+      "companyName": "Himalayan Solar Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-10-05",
+      "priceBand": null,
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹68.03 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
     },
     {
       "companyName": "Pooja Logistics Limited",
