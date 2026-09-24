@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T06:51:03Z",
+  "generatedAt": "2026-09-24T12:57:17Z",
   "ipos": [
     {
       "companyName": "Adroit Industries (India) Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹150.71 Cr",
       "gmp": {
-        "value": 30.0,
-        "percent": 22.39
+        "value": 35.0,
+        "percent": 26.12
       },
-      "subscriptionTimes": "10.34x"
+      "subscriptionTimes": "13.9x"
     },
     {
       "companyName": "ArMee Infotech Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹300.00 Cr",
       "gmp": {
-        "value": 40.0,
-        "percent": 10.67
+        "value": 20.0,
+        "percent": 5.33
       },
-      "subscriptionTimes": "0.9x"
+      "subscriptionTimes": "1.09x"
     },
     {
       "companyName": "Elevate Campuses Limited",
@@ -76,10 +76,10 @@
       "faceValue": null,
       "issueSize": "₹160.88 Cr",
       "gmp": {
-        "value": 4.0,
-        "percent": 2.16
+        "value": 8.0,
+        "percent": 4.32
       },
-      "subscriptionTimes": "1.28x"
+      "subscriptionTimes": "1.44x"
     },
     {
       "companyName": "A-One Steels India Limited",
@@ -99,7 +99,7 @@
         "value": 55.0,
         "percent": 13.58
       },
-      "subscriptionTimes": "0.23x"
+      "subscriptionTimes": "0.41x"
     },
     {
       "companyName": "Moneyview Limited",
@@ -116,10 +116,10 @@
       "faceValue": null,
       "issueSize": "₹1091.68 Cr",
       "gmp": {
-        "value": 13.5,
-        "percent": 39.71
+        "value": 12.5,
+        "percent": 36.76
       },
-      "subscriptionTimes": "0.55x"
+      "subscriptionTimes": "1.01x"
     },
     {
       "companyName": "AceVector Limited",
@@ -176,8 +176,8 @@
       "faceValue": null,
       "issueSize": "₹303.90 Cr",
       "gmp": {
-        "value": 24.0,
-        "percent": 17.27
+        "value": 27.5,
+        "percent": 19.78
       },
       "subscriptionTimes": "-"
     },
@@ -216,8 +216,8 @@
       "faceValue": null,
       "issueSize": "₹552.00 Cr",
       "gmp": {
-        "value": 45.0,
-        "percent": 16.54
+        "value": 50.0,
+        "percent": 18.38
       },
       "subscriptionTimes": "-"
     },
@@ -236,8 +236,8 @@
       "faceValue": null,
       "issueSize": "₹499.83 Cr",
       "gmp": {
-        "value": 17.0,
-        "percent": 5.57
+        "value": 23.0,
+        "percent": 7.54
       },
       "subscriptionTimes": "-"
     },
@@ -270,7 +270,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0x"
+      "subscriptionTimes": "0.01x"
     },
     {
       "companyName": "Pooja Logistics Limited",
@@ -287,7 +287,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.38x"
+      "subscriptionTimes": "0.41x"
     }
   ]
 }
