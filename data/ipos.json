@@ -1,86 +1,6 @@
 {
-  "generatedAt": "2026-09-25T02:07:01Z",
+  "generatedAt": "2026-09-25T09:08:35Z",
   "ipos": [
-    {
-      "companyName": "Adroit Industries (India) Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "listingDate": "2026-09-30",
-      "priceBand": {
-        "min": 126.0,
-        "max": 134.0
-      },
-      "lotSize": "111",
-      "faceValue": null,
-      "issueSize": "₹150.71 Cr",
-      "gmp": {
-        "value": 37.0,
-        "percent": 27.61
-      },
-      "subscriptionTimes": "18.08x"
-    },
-    {
-      "companyName": "ArMee Infotech Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "listingDate": "2026-09-30",
-      "priceBand": {
-        "min": 350.0,
-        "max": 375.0
-      },
-      "lotSize": "40",
-      "faceValue": null,
-      "issueSize": "₹300.00 Cr",
-      "gmp": {
-        "value": 20.0,
-        "percent": 5.33
-      },
-      "subscriptionTimes": "1.26x"
-    },
-    {
-      "companyName": "Elevate Campuses Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "listingDate": "2026-09-30",
-      "priceBand": {
-        "min": 343.0,
-        "max": 362.0
-      },
-      "lotSize": "41",
-      "faceValue": null,
-      "issueSize": "₹2100.00 Cr",
-      "gmp": {
-        "value": 2.5,
-        "percent": 0.69
-      },
-      "subscriptionTimes": "0.24x"
-    },
-    {
-      "companyName": "Swastika Infra Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "listingDate": "2026-09-30",
-      "priceBand": {
-        "min": 175.0,
-        "max": 185.0
-      },
-      "lotSize": "81",
-      "faceValue": null,
-      "issueSize": "₹160.88 Cr",
-      "gmp": {
-        "value": 9.0,
-        "percent": 4.86
-      },
-      "subscriptionTimes": "1.7x"
-    },
     {
       "companyName": "A-One Steels India Limited",
       "platform": null,
@@ -96,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹405.00 Cr",
       "gmp": {
-        "value": 49.0,
-        "percent": 12.1
+        "value": 51.0,
+        "percent": 12.59
       },
-      "subscriptionTimes": "0.61x"
+      "subscriptionTimes": "0.86x"
     },
     {
       "companyName": "Moneyview Limited",
@@ -119,12 +39,12 @@
         "value": 15.5,
         "percent": 45.59
       },
-      "subscriptionTimes": "1.49x"
+      "subscriptionTimes": "2.76x"
     },
     {
       "companyName": "AceVector Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-25",
       "closeDate": "2026-09-29",
       "listingDate": "2026-10-05",
@@ -136,15 +56,15 @@
       "faceValue": null,
       "issueSize": "₹420.00 Cr",
       "gmp": {
-        "value": 2.0,
-        "percent": 6.25
+        "value": 3.0,
+        "percent": 9.38
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.03x"
     },
     {
       "companyName": "German Green Steel and Power Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-25",
       "closeDate": "2026-09-29",
       "listingDate": "2026-10-05",
@@ -156,15 +76,15 @@
       "faceValue": null,
       "issueSize": "₹303.90 Cr",
       "gmp": {
-        "value": 29.0,
-        "percent": 20.86
+        "value": 29.5,
+        "percent": 21.22
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.39x"
     },
     {
       "companyName": "Orient Cables (India) Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-25",
       "closeDate": "2026-09-29",
       "listingDate": "2026-10-05",
@@ -179,12 +99,12 @@
         "value": 113.0,
         "percent": 41.54
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.55x"
     },
     {
       "companyName": "Runwal Enterprises Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-09-25",
       "closeDate": "2026-09-29",
       "listingDate": "2026-10-05",
@@ -196,10 +116,10 @@
       "faceValue": null,
       "issueSize": "₹499.83 Cr",
       "gmp": {
-        "value": 37.0,
-        "percent": 12.13
+        "value": 23.0,
+        "percent": 7.54
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.05x"
     },
     {
       "companyName": "Shah Investor's Home Limited",
@@ -236,15 +156,15 @@
       "faceValue": null,
       "issueSize": "₹218.40 Cr",
       "gmp": {
-        "value": 21.0,
-        "percent": 16.15
+        "value": 18.0,
+        "percent": 13.85
       },
       "subscriptionTimes": "-"
     },
     {
       "companyName": "Bench Mark Infotech Services Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-10-05",
@@ -253,10 +173,10 @@
       "faceValue": null,
       "issueSize": "₹42.44 Cr",
       "gmp": {
-        "value": null,
-        "percent": 0.0
+        "value": 16.0,
+        "percent": 14.55
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.06x"
     },
     {
       "companyName": "Coreintegra Consulting Services Limited",
@@ -282,17 +202,17 @@
       "priceBand": null,
       "lotSize": "1600",
       "faceValue": null,
-      "issueSize": "₹60.10 Cr",
+      "issueSize": "₹60.00 Cr",
       "gmp": {
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.01x"
+      "subscriptionTimes": "0.02x"
     },
     {
       "companyName": "Himalayan Solar Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-10-05",
@@ -304,24 +224,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "Pooja Logistics Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-09-30",
-      "priceBand": null,
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹44.23 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.39x"
+      "subscriptionTimes": "0.15x"
     }
   ]
 }
