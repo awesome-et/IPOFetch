@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T14:49:15Z",
+  "generatedAt": "2026-09-25T19:37:23Z",
   "ipos": [
     {
       "companyName": "A-One Steels India Limited",
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹1091.68 Cr",
       "gmp": {
-        "value": 14.0,
-        "percent": 41.18
+        "value": 13.5,
+        "percent": 39.71
       },
       "subscriptionTimes": "6.22x"
     },
@@ -76,8 +76,8 @@
       "faceValue": null,
       "issueSize": "₹303.90 Cr",
       "gmp": {
-        "value": 28.0,
-        "percent": 20.14
+        "value": 26.0,
+        "percent": 18.71
       },
       "subscriptionTimes": "1.82x"
     },
@@ -96,8 +96,8 @@
       "faceValue": null,
       "issueSize": "₹552.00 Cr",
       "gmp": {
-        "value": 87.0,
-        "percent": 31.99
+        "value": 80.0,
+        "percent": 29.41
       },
       "subscriptionTimes": "2.07x"
     },
@@ -116,8 +116,8 @@
       "faceValue": null,
       "issueSize": "₹499.83 Cr",
       "gmp": {
-        "value": 26.0,
-        "percent": 8.52
+        "value": 16.0,
+        "percent": 5.25
       },
       "subscriptionTimes": "0.44x"
     },
@@ -177,20 +177,6 @@
         "percent": 14.55
       },
       "subscriptionTimes": "0.26x"
-    },
-    {
-      "companyName": "Coreintegra Consulting Services Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": null,
-      "priceBand": null,
-      "lotSize": null,
-      "faceValue": null,
-      "issueSize": null,
-      "gmp": null,
-      "subscriptionTimes": null
     },
     {
       "companyName": "Green Asia Impex Limited",
