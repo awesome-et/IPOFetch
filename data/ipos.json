@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T09:08:35Z",
+  "generatedAt": "2026-09-25T14:49:15Z",
   "ipos": [
     {
       "companyName": "A-One Steels India Limited",
@@ -19,7 +19,7 @@
         "value": 51.0,
         "percent": 12.59
       },
-      "subscriptionTimes": "0.86x"
+      "subscriptionTimes": "1.43x"
     },
     {
       "companyName": "Moneyview Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹1091.68 Cr",
       "gmp": {
-        "value": 15.5,
-        "percent": 45.59
+        "value": 14.0,
+        "percent": 41.18
       },
-      "subscriptionTimes": "2.76x"
+      "subscriptionTimes": "6.22x"
     },
     {
       "companyName": "AceVector Limited",
@@ -56,10 +56,10 @@
       "faceValue": null,
       "issueSize": "₹420.00 Cr",
       "gmp": {
-        "value": 3.0,
-        "percent": 9.38
+        "value": 2.0,
+        "percent": 6.25
       },
-      "subscriptionTimes": "0.03x"
+      "subscriptionTimes": "0.24x"
     },
     {
       "companyName": "German Green Steel and Power Limited",
@@ -76,10 +76,10 @@
       "faceValue": null,
       "issueSize": "₹303.90 Cr",
       "gmp": {
-        "value": 29.5,
-        "percent": 21.22
+        "value": 28.0,
+        "percent": 20.14
       },
-      "subscriptionTimes": "0.39x"
+      "subscriptionTimes": "1.82x"
     },
     {
       "companyName": "Orient Cables (India) Limited",
@@ -96,10 +96,10 @@
       "faceValue": null,
       "issueSize": "₹552.00 Cr",
       "gmp": {
-        "value": 113.0,
-        "percent": 41.54
+        "value": 87.0,
+        "percent": 31.99
       },
-      "subscriptionTimes": "0.55x"
+      "subscriptionTimes": "2.07x"
     },
     {
       "companyName": "Runwal Enterprises Limited",
@@ -116,10 +116,10 @@
       "faceValue": null,
       "issueSize": "₹499.83 Cr",
       "gmp": {
-        "value": 23.0,
-        "percent": 7.54
+        "value": 26.0,
+        "percent": 8.52
       },
-      "subscriptionTimes": "0.05x"
+      "subscriptionTimes": "0.44x"
     },
     {
       "companyName": "Shah Investor's Home Limited",
@@ -156,8 +156,8 @@
       "faceValue": null,
       "issueSize": "₹218.40 Cr",
       "gmp": {
-        "value": 18.0,
-        "percent": 13.85
+        "value": 32.0,
+        "percent": 24.62
       },
       "subscriptionTimes": "-"
     },
@@ -176,7 +176,7 @@
         "value": 16.0,
         "percent": 14.55
       },
-      "subscriptionTimes": "0.06x"
+      "subscriptionTimes": "0.26x"
     },
     {
       "companyName": "Coreintegra Consulting Services Limited",
@@ -207,7 +207,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.02x"
+      "subscriptionTimes": "0.03x"
     },
     {
       "companyName": "Himalayan Solar Limited",
@@ -224,7 +224,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.15x"
+      "subscriptionTimes": "0.51x"
     }
   ]
 }
