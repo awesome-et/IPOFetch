@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:51:48Z",
+  "generatedAt": "2026-09-27T19:21:34Z",
   "ipos": [
     {
       "companyName": "A-One Steels India Limited",
@@ -16,8 +16,8 @@
       "faceValue": null,
       "issueSize": "₹405.00 Cr",
       "gmp": {
-        "value": 58.0,
-        "percent": 14.32
+        "value": 56.0,
+        "percent": 13.83
       },
       "subscriptionTimes": "1.43x"
     },
@@ -116,8 +116,8 @@
       "faceValue": null,
       "issueSize": "₹499.83 Cr",
       "gmp": {
-        "value": 16.0,
-        "percent": 5.25
+        "value": 14.0,
+        "percent": 4.59
       },
       "subscriptionTimes": "0.44x"
     },
@@ -173,8 +173,8 @@
       "faceValue": null,
       "issueSize": "₹42.44 Cr",
       "gmp": {
-        "value": 16.0,
-        "percent": 14.55
+        "value": 18.0,
+        "percent": 16.36
       },
       "subscriptionTimes": "0.26x"
     },
