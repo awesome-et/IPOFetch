@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:24:20Z",
+  "generatedAt": "2026-09-29T20:17:35Z",
   "ipos": [
     {
       "companyName": "Shah Investor's Home Limited",
@@ -16,8 +16,8 @@
       "faceValue": null,
       "issueSize": "₹90.17 Cr",
       "gmp": {
-        "value": 14.0,
-        "percent": 8.38
+        "value": 15.0,
+        "percent": 8.98
       },
       "subscriptionTimes": "1.1x"
     },
@@ -36,30 +36,27 @@
       "faceValue": null,
       "issueSize": "₹218.40 Cr",
       "gmp": {
-        "value": 27.0,
-        "percent": 20.77
+        "value": 31.0,
+        "percent": 23.85
       },
       "subscriptionTimes": "4.16x"
     },
     {
-      "companyName": "Eventions Limited",
-      "platform": "SME",
-      "status": "upcoming",
+      "companyName": "Nityas Gems and Jewellery Limited",
+      "platform": null,
+      "status": "open",
       "openDate": "2026-09-30",
       "closeDate": "2026-10-05",
-      "listingDate": "2026-10-08",
+      "listingDate": null,
       "priceBand": {
-        "min": 112.0,
-        "max": 118.0
+        "min": 70.0,
+        "max": 75.0
       },
-      "lotSize": "1200",
+      "lotSize": null,
       "faceValue": null,
-      "issueSize": "₹38.12 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "-"
+      "issueSize": null,
+      "gmp": null,
+      "subscriptionTimes": null
     },
     {
       "companyName": "Vishal Nirmiti Limited",
@@ -76,8 +73,25 @@
       "faceValue": null,
       "issueSize": "₹178.00 Cr",
       "gmp": {
-        "value": 2.0,
-        "percent": 0.91
+        "value": 6.0,
+        "percent": 2.73
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Eventions Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-10-08",
+      "priceBand": null,
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹38.12 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
       },
       "subscriptionTimes": "-"
     },
