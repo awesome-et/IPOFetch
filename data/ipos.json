@@ -1,86 +1,6 @@
 {
-  "generatedAt": "2026-09-29T00:00:25Z",
+  "generatedAt": "2026-09-29T07:35:23Z",
   "ipos": [
-    {
-      "companyName": "AceVector Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "listingDate": "2026-10-05",
-      "priceBand": {
-        "min": 30.0,
-        "max": 32.0
-      },
-      "lotSize": "468",
-      "faceValue": null,
-      "issueSize": "₹420.00 Cr",
-      "gmp": {
-        "value": 2.0,
-        "percent": 6.25
-      },
-      "subscriptionTimes": "1.19x"
-    },
-    {
-      "companyName": "German Green Steel and Power Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "listingDate": "2026-10-05",
-      "priceBand": {
-        "min": 132.0,
-        "max": 139.0
-      },
-      "lotSize": "107",
-      "faceValue": null,
-      "issueSize": "₹303.90 Cr",
-      "gmp": {
-        "value": 24.5,
-        "percent": 17.63
-      },
-      "subscriptionTimes": "5.39x"
-    },
-    {
-      "companyName": "Orient Cables (India) Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "listingDate": "2026-10-05",
-      "priceBand": {
-        "min": 258.0,
-        "max": 272.0
-      },
-      "lotSize": "55",
-      "faceValue": null,
-      "issueSize": "₹552.00 Cr",
-      "gmp": {
-        "value": 72.0,
-        "percent": 26.47
-      },
-      "subscriptionTimes": "8.77x"
-    },
-    {
-      "companyName": "Runwal Enterprises Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "listingDate": "2026-10-05",
-      "priceBand": {
-        "min": 290.0,
-        "max": 302.0
-      },
-      "lotSize": "49",
-      "faceValue": null,
-      "issueSize": "₹500.00 Cr",
-      "gmp": {
-        "value": 14.0,
-        "percent": 4.59
-      },
-      "subscriptionTimes": "0.75x"
-    },
     {
       "companyName": "Shah Investor's Home Limited",
       "platform": null,
@@ -162,23 +82,6 @@
       "subscriptionTimes": "-"
     },
     {
-      "companyName": "Bench Mark Infotech Services Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-10-05",
-      "priceBand": null,
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹42.44 Cr",
-      "gmp": {
-        "value": 29.0,
-        "percent": 26.36
-      },
-      "subscriptionTimes": "1.3x"
-    },
-    {
       "companyName": "Green Asia Impex Limited",
       "platform": "SME",
       "status": "open",
@@ -196,26 +99,9 @@
       "subscriptionTimes": "0.42x"
     },
     {
-      "companyName": "Himalayan Solar Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-10-05",
-      "priceBand": null,
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹68.03 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.71x"
-    },
-    {
       "companyName": "Papadmalji Agro Foods Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-10-07",
