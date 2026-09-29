@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T07:35:23Z",
+  "generatedAt": "2026-09-29T14:24:20Z",
   "ipos": [
     {
       "companyName": "Shah Investor's Home Limited",
@@ -19,7 +19,7 @@
         "value": 14.0,
         "percent": 8.38
       },
-      "subscriptionTimes": "0.32x"
+      "subscriptionTimes": "1.1x"
     },
     {
       "companyName": "Srit India Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹218.40 Cr",
       "gmp": {
-        "value": 33.0,
-        "percent": 25.38
+        "value": 27.0,
+        "percent": 20.77
       },
-      "subscriptionTimes": "1x"
+      "subscriptionTimes": "4.16x"
     },
     {
       "companyName": "Eventions Limited",
@@ -96,7 +96,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.42x"
+      "subscriptionTimes": "0.52x"
     },
     {
       "companyName": "Papadmalji Agro Foods Limited",
@@ -113,7 +113,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "1.4x"
     }
   ]
 }
