@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:50:01Z",
+  "generatedAt": "2026-09-29T00:00:25Z",
   "ipos": [
     {
       "companyName": "AceVector Limited",
@@ -16,8 +16,8 @@
       "faceValue": null,
       "issueSize": "₹420.00 Cr",
       "gmp": {
-        "value": 1.6,
-        "percent": 5.0
+        "value": 2.0,
+        "percent": 6.25
       },
       "subscriptionTimes": "1.19x"
     },
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹303.90 Cr",
       "gmp": {
-        "value": 26.0,
-        "percent": 18.71
+        "value": 24.5,
+        "percent": 17.63
       },
       "subscriptionTimes": "5.39x"
     },
@@ -56,8 +56,8 @@
       "faceValue": null,
       "issueSize": "₹552.00 Cr",
       "gmp": {
-        "value": 78.0,
-        "percent": 28.68
+        "value": 72.0,
+        "percent": 26.47
       },
       "subscriptionTimes": "8.77x"
     },
@@ -96,8 +96,8 @@
       "faceValue": null,
       "issueSize": "₹90.17 Cr",
       "gmp": {
-        "value": 12.5,
-        "percent": 7.49
+        "value": 14.0,
+        "percent": 8.38
       },
       "subscriptionTimes": "0.32x"
     },
@@ -116,8 +116,8 @@
       "faceValue": null,
       "issueSize": "₹218.40 Cr",
       "gmp": {
-        "value": 34.0,
-        "percent": 26.15
+        "value": 33.0,
+        "percent": 25.38
       },
       "subscriptionTimes": "1x"
     },
@@ -156,8 +156,8 @@
       "faceValue": null,
       "issueSize": "₹178.00 Cr",
       "gmp": {
-        "value": null,
-        "percent": 0.0
+        "value": 2.0,
+        "percent": 0.91
       },
       "subscriptionTimes": "-"
     },
@@ -173,8 +173,8 @@
       "faceValue": null,
       "issueSize": "₹42.44 Cr",
       "gmp": {
-        "value": 25.0,
-        "percent": 22.73
+        "value": 29.0,
+        "percent": 26.36
       },
       "subscriptionTimes": "1.3x"
     },
