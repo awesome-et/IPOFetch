@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T14:19:04Z",
+  "generatedAt": "2026-09-30T20:21:59Z",
   "ipos": [
     {
       "companyName": "Nityas Gems and Jewellery Limited",
@@ -36,7 +36,7 @@
         "value": 10.0,
         "percent": 4.55
       },
-      "subscriptionTimes": "0.05x"
+      "subscriptionTimes": "0.06x"
     },
     {
       "companyName": "Eventions Limited",
@@ -70,7 +70,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.61x"
+      "subscriptionTimes": "0.66x"
     },
     {
       "companyName": "Papadmalji Agro Foods Limited",
@@ -87,7 +87,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "1.64x"
+      "subscriptionTimes": "1.7x"
     }
   ]
 }
