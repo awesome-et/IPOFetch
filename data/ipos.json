@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:52:54Z",
+  "generatedAt": "2026-10-01T07:53:59Z",
   "ipos": [
     {
       "companyName": "Nityas Gems and Jewellery Limited",
@@ -33,10 +33,10 @@
       "faceValue": null,
       "issueSize": "₹178.00 Cr",
       "gmp": {
-        "value": 10.0,
-        "percent": 4.55
+        "value": 33.0,
+        "percent": 15.0
       },
-      "subscriptionTimes": "0.06x"
+      "subscriptionTimes": "0.43x"
     },
     {
       "companyName": "Eventions Limited",
@@ -53,41 +53,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "1.12x"
-    },
-    {
-      "companyName": "Green Asia Impex Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-10-07",
-      "priceBand": null,
-      "lotSize": "1600",
-      "faceValue": null,
-      "issueSize": "₹59.34 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.66x"
-    },
-    {
-      "companyName": "Papadmalji Agro Foods Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-10-07",
-      "priceBand": null,
-      "lotSize": "1600",
-      "faceValue": null,
-      "issueSize": "₹20.18 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "1.7x"
+      "subscriptionTimes": "1.24x"
     }
   ]
 }
