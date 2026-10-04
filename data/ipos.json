@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:53:28Z",
+  "generatedAt": "2026-10-04T20:33:00Z",
   "ipos": [
     {
       "companyName": "Nityas Gems and Jewellery Limited",
@@ -39,24 +39,21 @@
       "subscriptionTimes": "0.6x"
     },
     {
-      "companyName": "R.K. Fashion Accessories Limited",
-      "platform": "SME",
-      "status": "upcoming",
+      "companyName": "SMC Global Securities Limited",
+      "platform": null,
+      "status": "open",
       "openDate": "2026-10-05",
-      "closeDate": "2026-10-07",
-      "listingDate": "2026-10-12",
+      "closeDate": "2026-10-16",
+      "listingDate": null,
       "priceBand": {
-        "min": 77.0,
-        "max": 82.0
+        "min": 1000.0,
+        "max": 1000.0
       },
-      "lotSize": "1600",
+      "lotSize": null,
       "faceValue": null,
-      "issueSize": "₹34.99 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "-"
+      "issueSize": null,
+      "gmp": null,
+      "subscriptionTimes": null
     },
     {
       "companyName": "Eventions Limited",
@@ -74,6 +71,23 @@
         "percent": 0.0
       },
       "subscriptionTimes": "1.8x"
+    },
+    {
+      "companyName": "R.K. Fashion Accessories Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-10-12",
+      "priceBand": null,
+      "lotSize": "1600",
+      "faceValue": null,
+      "issueSize": "₹34.99 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
     }
   ]
 }
