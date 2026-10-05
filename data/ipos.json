@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T07:47:56Z",
+  "generatedAt": "2026-10-05T16:29:48Z",
   "ipos": [
     {
       "companyName": "Nityas Gems and Jewellery Limited",
@@ -47,10 +47,10 @@
       "faceValue": null,
       "issueSize": "₹34.99 Cr",
       "gmp": {
-        "value": null,
-        "percent": 0.0
+        "value": 7.0,
+        "percent": 8.54
       },
-      "subscriptionTimes": "0.01x"
+      "subscriptionTimes": "0.4x"
     }
   ]
 }
