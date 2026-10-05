@@ -1,23 +1,6 @@
 {
-  "generatedAt": "2026-10-05T16:29:48Z",
+  "generatedAt": "2026-10-05T23:24:19Z",
   "ipos": [
-    {
-      "companyName": "Nityas Gems and Jewellery Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "listingDate": null,
-      "priceBand": {
-        "min": 70.0,
-        "max": 75.0
-      },
-      "lotSize": null,
-      "faceValue": null,
-      "issueSize": null,
-      "gmp": null,
-      "subscriptionTimes": null
-    },
     {
       "companyName": "SMC Global Securities Limited",
       "platform": null,
