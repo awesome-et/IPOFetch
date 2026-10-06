@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:51:25Z",
+  "generatedAt": "2026-10-06T17:29:14Z",
   "ipos": [
     {
       "companyName": "SMC Global Securities Limited",
@@ -30,10 +30,10 @@
       "faceValue": null,
       "issueSize": "₹34.99 Cr",
       "gmp": {
-        "value": 7.0,
-        "percent": 8.54
+        "value": 15.0,
+        "percent": 18.29
       },
-      "subscriptionTimes": "0.43x"
+      "subscriptionTimes": "0.44x"
     }
   ]
 }
