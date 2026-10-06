@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T17:29:14Z",
+  "generatedAt": "2026-10-06T21:56:32Z",
   "ipos": [
     {
       "companyName": "SMC Global Securities Limited",
@@ -11,6 +11,23 @@
       "priceBand": {
         "min": 1000.0,
         "max": 1000.0
+      },
+      "lotSize": null,
+      "faceValue": null,
+      "issueSize": null,
+      "gmp": null,
+      "subscriptionTimes": null
+    },
+    {
+      "companyName": "Grace Cancer Foundation - ZCZP",
+      "platform": null,
+      "status": "open",
+      "openDate": "2026-10-07",
+      "closeDate": "2026-10-09",
+      "listingDate": null,
+      "priceBand": {
+        "min": 10.0,
+        "max": 10.0
       },
       "lotSize": null,
       "faceValue": null,
