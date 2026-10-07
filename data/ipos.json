@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:08:35Z",
+  "generatedAt": "2026-10-07T07:48:16Z",
   "ipos": [
     {
       "companyName": "SMC Global Securities Limited",
@@ -34,23 +34,6 @@
       "issueSize": null,
       "gmp": null,
       "subscriptionTimes": null
-    },
-    {
-      "companyName": "R.K. Fashion Accessories Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-10-12",
-      "priceBand": null,
-      "lotSize": "1600",
-      "faceValue": null,
-      "issueSize": "₹34.99 Cr",
-      "gmp": {
-        "value": 15.0,
-        "percent": 18.29
-      },
-      "subscriptionTimes": "0.44x"
     }
   ]
 }
