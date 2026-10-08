@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-08T08:05:12Z",
+  "generatedAt": "2026-10-08T17:01:09Z",
   "ipos": [
     {
       "companyName": "SMC Global Securities Limited",
       "platform": null,
       "status": "open",
       "openDate": "2026-10-05",
-      "closeDate": "2026-10-16",
+      "closeDate": "2026-10-09",
       "listingDate": null,
       "priceBand": {
         "min": 1000.0,
@@ -19,21 +19,44 @@
       "subscriptionTimes": null
     },
     {
-      "companyName": "Grace Cancer Foundation - ZCZP",
+      "companyName": "HD Fire Protect Limited",
       "platform": null,
-      "status": "open",
-      "openDate": "2026-10-07",
-      "closeDate": "2026-10-09",
-      "listingDate": null,
+      "status": "upcoming",
+      "openDate": "2026-10-13",
+      "closeDate": "2026-10-15",
+      "listingDate": "2026-10-21",
       "priceBand": {
-        "min": 10.0,
-        "max": 10.0
+        "min": 258.0,
+        "max": 271.0
       },
-      "lotSize": null,
+      "lotSize": "55",
       "faceValue": null,
-      "issueSize": null,
-      "gmp": null,
-      "subscriptionTimes": null
+      "issueSize": "₹712.31 Cr",
+      "gmp": {
+        "value": 62.0,
+        "percent": 22.88
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Ravita Engineering Services Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-10-13",
+      "closeDate": "2026-10-15",
+      "listingDate": "2026-10-21",
+      "priceBand": {
+        "min": 105.0,
+        "max": 112.0
+      },
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹116.05 Cr",
+      "gmp": {
+        "value": null,
+        "percent": null
+      },
+      "subscriptionTimes": "-"
     }
   ]
 }
