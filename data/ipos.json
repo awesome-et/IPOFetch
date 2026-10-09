@@ -1,23 +1,6 @@
 {
-  "generatedAt": "2026-10-09T17:36:51Z",
+  "generatedAt": "2026-10-09T21:55:44Z",
   "ipos": [
-    {
-      "companyName": "SMC Global Securities Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-10-05",
-      "closeDate": "2026-10-09",
-      "listingDate": null,
-      "priceBand": {
-        "min": 1000.0,
-        "max": 1000.0
-      },
-      "lotSize": null,
-      "faceValue": null,
-      "issueSize": null,
-      "gmp": null,
-      "subscriptionTimes": null
-    },
     {
       "companyName": "HD Fire Protect Limited",
       "platform": null,
