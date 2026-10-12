@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:10:18Z",
+  "generatedAt": "2026-10-12T19:27:22Z",
   "ipos": [
     {
       "companyName": "HD Fire Protect Limited",
@@ -16,8 +16,28 @@
       "faceValue": null,
       "issueSize": "₹712.31 Cr",
       "gmp": {
-        "value": 80.0,
-        "percent": 29.52
+        "value": 86.0,
+        "percent": 31.73
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Fusion CX Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-14",
+      "closeDate": "2026-10-16",
+      "listingDate": "2026-10-22",
+      "priceBand": {
+        "min": 275.0,
+        "max": 289.0
+      },
+      "lotSize": "51",
+      "faceValue": null,
+      "issueSize": "₹702.00 Cr",
+      "gmp": {
+        "value": 19.0,
+        "percent": 6.57
       },
       "subscriptionTimes": "-"
     },
@@ -25,9 +45,9 @@
       "companyName": "Ravita Engineering Services Limited",
       "platform": "SME",
       "status": "upcoming",
-      "openDate": "2026-10-13",
-      "closeDate": "2026-10-15",
-      "listingDate": "2026-10-21",
+      "openDate": "2026-10-14",
+      "closeDate": "2026-10-16",
+      "listingDate": "2026-10-22",
       "priceBand": {
         "min": 105.0,
         "max": 112.0
@@ -36,8 +56,8 @@
       "faceValue": null,
       "issueSize": "₹116.05 Cr",
       "gmp": {
-        "value": 8.0,
-        "percent": 7.14
+        "value": 4.0,
+        "percent": 3.57
       },
       "subscriptionTimes": "-"
     },
@@ -45,13 +65,10 @@
       "companyName": "Vaibhav Vyapaar Limited",
       "platform": "SME",
       "status": "upcoming",
-      "openDate": "2026-10-13",
-      "closeDate": "2026-10-15",
+      "openDate": null,
+      "closeDate": null,
       "listingDate": "2026-10-21",
-      "priceBand": {
-        "min": 51.0,
-        "max": 54.0
-      },
+      "priceBand": null,
       "lotSize": "2000",
       "faceValue": null,
       "issueSize": "₹42.10 Cr",
