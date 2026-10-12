@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:47:17Z",
+  "generatedAt": "2026-10-12T08:10:18Z",
   "ipos": [
     {
       "companyName": "HD Fire Protect Limited",
@@ -16,8 +16,8 @@
       "faceValue": null,
       "issueSize": "₹712.31 Cr",
       "gmp": {
-        "value": 86.0,
-        "percent": 31.73
+        "value": 80.0,
+        "percent": 29.52
       },
       "subscriptionTimes": "-"
     },
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹116.05 Cr",
       "gmp": {
-        "value": 10.0,
-        "percent": 8.93
+        "value": 8.0,
+        "percent": 7.14
       },
       "subscriptionTimes": "-"
     },
