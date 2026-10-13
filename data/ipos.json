@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T01:41:12Z",
+  "generatedAt": "2026-10-13T08:35:58Z",
   "ipos": [
     {
       "companyName": "HD Fire Protect Limited",
@@ -14,12 +14,12 @@
       },
       "lotSize": "55",
       "faceValue": null,
-      "issueSize": "₹712.31 Cr",
+      "issueSize": "₹712.13 Cr",
       "gmp": {
-        "value": 86.0,
-        "percent": 31.73
+        "value": 89.0,
+        "percent": 32.84
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "2.74x"
     },
     {
       "companyName": "Fusion CX Limited",
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹702.00 Cr",
       "gmp": {
-        "value": 19.0,
-        "percent": 6.57
+        "value": 28.0,
+        "percent": 9.69
       },
       "subscriptionTimes": "-"
     },
@@ -56,8 +56,28 @@
       "faceValue": null,
       "issueSize": "₹116.05 Cr",
       "gmp": {
-        "value": 4.0,
-        "percent": 3.57
+        "value": 2.0,
+        "percent": 1.79
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Tonbo Imaging India Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "listingDate": "2026-10-23",
+      "priceBand": {
+        "min": 665.0,
+        "max": 700.0
+      },
+      "lotSize": "21",
+      "faceValue": null,
+      "issueSize": "₹852.18 Cr",
+      "gmp": {
+        "value": 470.0,
+        "percent": 67.14
       },
       "subscriptionTimes": "-"
     },
@@ -76,7 +96,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.08x"
     }
   ]
 }
