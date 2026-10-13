@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T19:27:22Z",
+  "generatedAt": "2026-10-13T01:41:12Z",
   "ipos": [
     {
       "companyName": "HD Fire Protect Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-10-13",
       "closeDate": "2026-10-15",
       "listingDate": "2026-10-21",
@@ -64,7 +64,7 @@
     {
       "companyName": "Vaibhav Vyapaar Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-10-21",
