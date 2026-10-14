@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T14:44:41Z",
+  "generatedAt": "2026-10-14T19:47:18Z",
   "ipos": [
     {
       "companyName": "HD Fire Protect Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹712.13 Cr",
       "gmp": {
-        "value": 91.0,
-        "percent": 33.58
+        "value": 89.0,
+        "percent": 32.84
       },
-      "subscriptionTimes": "15.51x"
+      "subscriptionTimes": "16.56x"
     },
     {
       "companyName": "Fusion CX Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹702.00 Cr",
       "gmp": {
-        "value": 35.0,
-        "percent": 12.11
+        "value": 33.0,
+        "percent": 11.42
       },
-      "subscriptionTimes": "0.37x"
+      "subscriptionTimes": "0.43x"
     },
     {
       "companyName": "Bonfiglioli Transmissions Limited",
@@ -56,8 +56,8 @@
       "faceValue": null,
       "issueSize": "₹2533.66 Cr",
       "gmp": {
-        "value": 182.0,
-        "percent": 31.06
+        "value": 178.0,
+        "percent": 30.38
       },
       "subscriptionTimes": "-"
     },
@@ -76,8 +76,8 @@
       "faceValue": null,
       "issueSize": "₹475.48 Cr",
       "gmp": {
-        "value": 36.0,
-        "percent": 10.47
+        "value": 41.0,
+        "percent": 11.92
       },
       "subscriptionTimes": "-"
     },
@@ -116,8 +116,8 @@
       "faceValue": null,
       "issueSize": "₹5012.33 Cr",
       "gmp": {
-        "value": 17.5,
-        "percent": 11.59
+        "value": 22.0,
+        "percent": 14.57
       },
       "subscriptionTimes": "-"
     },
@@ -136,7 +136,7 @@
         "value": 7.0,
         "percent": 6.25
       },
-      "subscriptionTimes": "0.87x"
+      "subscriptionTimes": "1.14x"
     },
     {
       "companyName": "Vaibhav Vyapaar Limited",
@@ -153,7 +153,7 @@
         "value": null,
         "percent": 0.0
       },
-      "subscriptionTimes": "0.23x"
+      "subscriptionTimes": "0.39x"
     }
   ]
 }
