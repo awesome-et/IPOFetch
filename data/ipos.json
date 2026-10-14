@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:01:24Z",
+  "generatedAt": "2026-10-14T02:21:16Z",
   "ipos": [
     {
       "companyName": "HD Fire Protect Limited",
@@ -24,7 +24,7 @@
     {
       "companyName": "Fusion CX Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-10-14",
       "closeDate": "2026-10-16",
       "listingDate": "2026-10-22",
@@ -124,7 +124,7 @@
     {
       "companyName": "Ravita Engineering Services Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-10-22",
