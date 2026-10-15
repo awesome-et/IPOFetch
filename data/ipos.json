@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-10-14T22:45:16Z",
+  "generatedAt": "2026-10-15T02:02:18Z",
   "ipos": [
-    {
-      "companyName": "HD Fire Protect Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-10-13",
-      "closeDate": "2026-10-15",
-      "listingDate": "2026-10-21",
-      "priceBand": {
-        "min": 258.0,
-        "max": 271.0
-      },
-      "lotSize": "55",
-      "faceValue": null,
-      "issueSize": "₹712.13 Cr",
-      "gmp": {
-        "value": 89.0,
-        "percent": 32.84
-      },
-      "subscriptionTimes": "16.56x"
-    },
     {
       "companyName": "Fusion CX Limited",
       "platform": null,
@@ -44,7 +24,7 @@
     {
       "companyName": "Bonfiglioli Transmissions Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-10-15",
       "closeDate": "2026-10-19",
       "listingDate": "2026-10-23",
@@ -64,7 +44,7 @@
     {
       "companyName": "Sahajanand Medical Technologies Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-10-15",
       "closeDate": "2026-10-19",
       "listingDate": "2026-10-23",
@@ -84,7 +64,7 @@
     {
       "companyName": "Tonbo Imaging India Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-10-15",
       "closeDate": "2026-10-19",
       "listingDate": "2026-10-23",
@@ -104,7 +84,7 @@
     {
       "companyName": "Zetwerk Manufacturing Businesses Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-10-15",
       "closeDate": "2026-10-19",
       "listingDate": "2026-10-23",
@@ -137,23 +117,6 @@
         "percent": 6.25
       },
       "subscriptionTimes": "1.14x"
-    },
-    {
-      "companyName": "Vaibhav Vyapaar Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-10-21",
-      "priceBand": null,
-      "lotSize": "2000",
-      "faceValue": null,
-      "issueSize": "₹42.10 Cr",
-      "gmp": {
-        "value": null,
-        "percent": 0.0
-      },
-      "subscriptionTimes": "0.39x"
     }
   ]
 }
