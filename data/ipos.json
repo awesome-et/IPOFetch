@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T14:31:56Z",
+  "generatedAt": "2026-10-15T19:31:06Z",
   "ipos": [
     {
       "companyName": "Fusion CX Limited",
@@ -16,8 +16,8 @@
       "faceValue": null,
       "issueSize": "₹702.00 Cr",
       "gmp": {
-        "value": 21.5,
-        "percent": 7.44
+        "value": 22.0,
+        "percent": 7.61
       },
       "subscriptionTimes": "1.16x"
     },
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹2533.66 Cr",
       "gmp": {
-        "value": 147.0,
-        "percent": 25.09
+        "value": 140.0,
+        "percent": 23.89
       },
       "subscriptionTimes": "0.48x"
     },
@@ -56,8 +56,8 @@
       "faceValue": null,
       "issueSize": "₹475.48 Cr",
       "gmp": {
-        "value": 46.0,
-        "percent": 13.37
+        "value": 43.0,
+        "percent": 12.5
       },
       "subscriptionTimes": "0.35x"
     },
@@ -76,8 +76,8 @@
       "faceValue": null,
       "issueSize": "₹852.18 Cr",
       "gmp": {
-        "value": 498.0,
-        "percent": 71.14
+        "value": 500.0,
+        "percent": 71.43
       },
       "subscriptionTimes": "4.01x"
     },
@@ -96,10 +96,30 @@
       "faceValue": null,
       "issueSize": "₹5012.33 Cr",
       "gmp": {
-        "value": 14.5,
-        "percent": 9.6
+        "value": 14.0,
+        "percent": 9.27
       },
       "subscriptionTimes": "0.23x"
+    },
+    {
+      "companyName": "Jio Platforms Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-21",
+      "closeDate": "2026-10-23",
+      "listingDate": "2026-10-28",
+      "priceBand": {
+        "min": 1065.0,
+        "max": 1119.0
+      },
+      "lotSize": "12",
+      "faceValue": null,
+      "issueSize": "₹30213.00 Cr",
+      "gmp": {
+        "value": 221.0,
+        "percent": 19.75
+      },
+      "subscriptionTimes": "-"
     },
     {
       "companyName": "Ravita Engineering Services Limited",
