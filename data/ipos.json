@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T08:38:30Z",
+  "generatedAt": "2026-10-15T14:31:56Z",
   "ipos": [
     {
       "companyName": "Fusion CX Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹702.00 Cr",
       "gmp": {
-        "value": 33.0,
-        "percent": 11.42
+        "value": 21.5,
+        "percent": 7.44
       },
-      "subscriptionTimes": "0.51x"
+      "subscriptionTimes": "1.16x"
     },
     {
       "companyName": "Bonfiglioli Transmissions Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹2533.66 Cr",
       "gmp": {
-        "value": 178.0,
-        "percent": 30.38
+        "value": 147.0,
+        "percent": 25.09
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.48x"
     },
     {
       "companyName": "Sahajanand Medical Technologies Limited",
@@ -56,10 +56,10 @@
       "faceValue": null,
       "issueSize": "₹475.48 Cr",
       "gmp": {
-        "value": 41.0,
-        "percent": 11.92
+        "value": 46.0,
+        "percent": 13.37
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.35x"
     },
     {
       "companyName": "Tonbo Imaging India Limited",
@@ -76,10 +76,10 @@
       "faceValue": null,
       "issueSize": "₹852.18 Cr",
       "gmp": {
-        "value": 500.0,
-        "percent": 71.43
+        "value": 498.0,
+        "percent": 71.14
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "4.01x"
     },
     {
       "companyName": "Zetwerk Manufacturing Businesses Limited",
@@ -96,10 +96,10 @@
       "faceValue": null,
       "issueSize": "₹5012.33 Cr",
       "gmp": {
-        "value": 22.0,
-        "percent": 14.57
+        "value": 14.5,
+        "percent": 9.6
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.23x"
     },
     {
       "companyName": "Ravita Engineering Services Limited",
@@ -113,10 +113,10 @@
       "faceValue": null,
       "issueSize": "₹116.05 Cr",
       "gmp": {
-        "value": 5.0,
-        "percent": 4.46
+        "value": 2.0,
+        "percent": 1.79
       },
-      "subscriptionTimes": "1.14x"
+      "subscriptionTimes": "1.7x"
     }
   ]
 }
