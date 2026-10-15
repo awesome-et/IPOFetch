@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T02:02:18Z",
+  "generatedAt": "2026-10-15T08:38:30Z",
   "ipos": [
     {
       "companyName": "Fusion CX Limited",
@@ -19,7 +19,7 @@
         "value": 33.0,
         "percent": 11.42
       },
-      "subscriptionTimes": "0.43x"
+      "subscriptionTimes": "0.51x"
     },
     {
       "companyName": "Bonfiglioli Transmissions Limited",
@@ -113,8 +113,8 @@
       "faceValue": null,
       "issueSize": "₹116.05 Cr",
       "gmp": {
-        "value": 7.0,
-        "percent": 6.25
+        "value": 5.0,
+        "percent": 4.46
       },
       "subscriptionTimes": "1.14x"
     }
