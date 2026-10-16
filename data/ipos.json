@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-10-15T22:44:10Z",
+  "generatedAt": "2026-10-16T01:52:35Z",
   "ipos": [
-    {
-      "companyName": "Fusion CX Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-10-14",
-      "closeDate": "2026-10-16",
-      "listingDate": "2026-10-22",
-      "priceBand": {
-        "min": 275.0,
-        "max": 289.0
-      },
-      "lotSize": "51",
-      "faceValue": null,
-      "issueSize": "₹702.00 Cr",
-      "gmp": {
-        "value": 22.0,
-        "percent": 7.61
-      },
-      "subscriptionTimes": "1.16x"
-    },
     {
       "companyName": "Bonfiglioli Transmissions Limited",
       "platform": null,
@@ -120,23 +100,6 @@
         "percent": 19.75
       },
       "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "Ravita Engineering Services Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-10-22",
-      "priceBand": null,
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹116.05 Cr",
-      "gmp": {
-        "value": 2.0,
-        "percent": 1.79
-      },
-      "subscriptionTimes": "1.7x"
     }
   ]
 }
