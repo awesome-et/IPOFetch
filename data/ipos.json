@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T01:52:35Z",
+  "generatedAt": "2026-10-16T06:29:54Z",
   "ipos": [
     {
       "companyName": "Bonfiglioli Transmissions Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹2533.66 Cr",
       "gmp": {
-        "value": 140.0,
-        "percent": 23.89
+        "value": 138.0,
+        "percent": 23.55
       },
-      "subscriptionTimes": "0.48x"
+      "subscriptionTimes": "0.65x"
     },
     {
       "companyName": "Sahajanand Medical Technologies Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹475.48 Cr",
       "gmp": {
-        "value": 43.0,
-        "percent": 12.5
+        "value": 40.0,
+        "percent": 11.63
       },
-      "subscriptionTimes": "0.35x"
+      "subscriptionTimes": "0.46x"
     },
     {
       "companyName": "Tonbo Imaging India Limited",
@@ -56,10 +56,10 @@
       "faceValue": null,
       "issueSize": "₹852.18 Cr",
       "gmp": {
-        "value": 500.0,
-        "percent": 71.43
+        "value": 495.0,
+        "percent": 70.71
       },
-      "subscriptionTimes": "4.01x"
+      "subscriptionTimes": "5.37x"
     },
     {
       "companyName": "Zetwerk Manufacturing Businesses Limited",
@@ -76,10 +76,10 @@
       "faceValue": null,
       "issueSize": "₹5012.33 Cr",
       "gmp": {
-        "value": 14.0,
-        "percent": 9.27
+        "value": 10.75,
+        "percent": 7.12
       },
-      "subscriptionTimes": "0.23x"
+      "subscriptionTimes": "0.25x"
     },
     {
       "companyName": "Jio Platforms Limited",
@@ -96,8 +96,8 @@
       "faceValue": null,
       "issueSize": "₹30213.00 Cr",
       "gmp": {
-        "value": 221.0,
-        "percent": 19.75
+        "value": 222.0,
+        "percent": 19.84
       },
       "subscriptionTimes": "-"
     }
