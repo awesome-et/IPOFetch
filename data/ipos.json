@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:29:54Z",
+  "generatedAt": "2026-10-16T12:46:39Z",
   "ipos": [
     {
       "companyName": "Bonfiglioli Transmissions Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹2533.66 Cr",
       "gmp": {
-        "value": 138.0,
-        "percent": 23.55
+        "value": 127.0,
+        "percent": 21.67
       },
-      "subscriptionTimes": "0.65x"
+      "subscriptionTimes": "0.99x"
     },
     {
       "companyName": "Sahajanand Medical Technologies Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹475.48 Cr",
       "gmp": {
-        "value": 40.0,
-        "percent": 11.63
+        "value": 38.0,
+        "percent": 11.05
       },
-      "subscriptionTimes": "0.46x"
+      "subscriptionTimes": "0.83x"
     },
     {
       "companyName": "Tonbo Imaging India Limited",
@@ -56,10 +56,10 @@
       "faceValue": null,
       "issueSize": "₹852.18 Cr",
       "gmp": {
-        "value": 495.0,
-        "percent": 70.71
+        "value": 500.0,
+        "percent": 71.43
       },
-      "subscriptionTimes": "5.37x"
+      "subscriptionTimes": "7.78x"
     },
     {
       "companyName": "Zetwerk Manufacturing Businesses Limited",
@@ -76,10 +76,10 @@
       "faceValue": null,
       "issueSize": "₹5012.33 Cr",
       "gmp": {
-        "value": 10.75,
-        "percent": 7.12
+        "value": 6.0,
+        "percent": 3.97
       },
-      "subscriptionTimes": "0.25x"
+      "subscriptionTimes": "0.31x"
     },
     {
       "companyName": "Jio Platforms Limited",
@@ -96,8 +96,28 @@
       "faceValue": null,
       "issueSize": "₹30213.00 Cr",
       "gmp": {
-        "value": 222.0,
-        "percent": 19.84
+        "value": 223.0,
+        "percent": 19.93
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Paras Healthcare Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-21",
+      "closeDate": "2026-10-23",
+      "listingDate": "2026-10-28",
+      "priceBand": {
+        "min": 660.0,
+        "max": 693.0
+      },
+      "lotSize": "21",
+      "faceValue": null,
+      "issueSize": "₹1450.00 Cr",
+      "gmp": {
+        "value": 97.0,
+        "percent": 14.0
       },
       "subscriptionTimes": "-"
     }
