@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T03:16:40Z",
+  "generatedAt": "2026-10-17T08:05:38Z",
   "ipos": [
     {
       "companyName": "Bonfiglioli Transmissions Limited",
@@ -98,6 +98,26 @@
       "gmp": {
         "value": 221.0,
         "percent": 19.75
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Paras Healthcare Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-21",
+      "closeDate": "2026-10-23",
+      "listingDate": "2026-10-28",
+      "priceBand": {
+        "min": 660.0,
+        "max": 693.0
+      },
+      "lotSize": "21",
+      "faceValue": null,
+      "issueSize": "₹1450.00 Cr",
+      "gmp": {
+        "value": 95.0,
+        "percent": 13.71
       },
       "subscriptionTimes": "-"
     }
