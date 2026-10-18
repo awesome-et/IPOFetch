@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T16:58:53Z",
+  "generatedAt": "2026-10-18T19:45:39Z",
   "ipos": [
     {
       "companyName": "Bonfiglioli Transmissions Limited",
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹475.48 Cr",
       "gmp": {
-        "value": 28.0,
-        "percent": 8.14
+        "value": 25.0,
+        "percent": 7.27
       },
       "subscriptionTimes": "0.83x"
     },
@@ -76,8 +76,8 @@
       "faceValue": null,
       "issueSize": "₹5012.33 Cr",
       "gmp": {
-        "value": 5.5,
-        "percent": 3.64
+        "value": 5.0,
+        "percent": 3.31
       },
       "subscriptionTimes": "0.31x"
     },
@@ -96,8 +96,8 @@
       "faceValue": null,
       "issueSize": "₹30213.00 Cr",
       "gmp": {
-        "value": 249.0,
-        "percent": 22.25
+        "value": 250.0,
+        "percent": 22.34
       },
       "subscriptionTimes": "-"
     },
