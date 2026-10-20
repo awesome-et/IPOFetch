@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:46:05Z",
+  "generatedAt": "2026-10-20T06:46:41Z",
   "ipos": [
     {
       "companyName": "Jio Platforms Limited",
@@ -16,8 +16,8 @@
       "faceValue": null,
       "issueSize": "₹30213.00 Cr",
       "gmp": {
-        "value": 245.0,
-        "percent": 21.89
+        "value": 243.0,
+        "percent": 21.72
       },
       "subscriptionTimes": "-"
     },
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹1450.00 Cr",
       "gmp": {
-        "value": 78.0,
-        "percent": 11.26
+        "value": 81.0,
+        "percent": 11.69
       },
       "subscriptionTimes": "-"
     }
