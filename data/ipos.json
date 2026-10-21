@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:12:27Z",
+  "generatedAt": "2026-10-21T08:56:06Z",
   "ipos": [
     {
       "companyName": "Jio Platforms Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹30213.00 Cr",
       "gmp": {
-        "value": 273.0,
-        "percent": 24.4
+        "value": 250.0,
+        "percent": 22.34
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "1.31x"
     },
     {
       "companyName": "Paras Healthcare Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹1450.00 Cr",
       "gmp": {
-        "value": 50.0,
-        "percent": 7.22
+        "value": 45.0,
+        "percent": 6.49
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.07x"
     }
   ]
 }
