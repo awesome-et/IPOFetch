@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:58:13Z",
+  "generatedAt": "2026-10-22T14:43:31Z",
   "ipos": [
     {
       "companyName": "Jio Platforms Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹30213.00 Cr",
       "gmp": {
-        "value": 241.0,
-        "percent": 21.54
+        "value": 247.0,
+        "percent": 22.07
       },
-      "subscriptionTimes": "4.14x"
+      "subscriptionTimes": "4.87x"
     },
     {
       "companyName": "Paras Healthcare Limited",
@@ -36,10 +36,70 @@
       "faceValue": null,
       "issueSize": "₹1450.00 Cr",
       "gmp": {
-        "value": 15.0,
-        "percent": 2.16
+        "value": 13.0,
+        "percent": 1.88
       },
-      "subscriptionTimes": "0.28x"
+      "subscriptionTimes": "0.34x"
+    },
+    {
+      "companyName": "EAAA India Alternatives Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-26",
+      "closeDate": "2026-10-28",
+      "listingDate": "2026-11-02",
+      "priceBand": {
+        "min": 1585.0,
+        "max": 1665.0
+      },
+      "lotSize": "9",
+      "faceValue": null,
+      "issueSize": "₹1200.00 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "BLS Polymers Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "listingDate": "2026-11-03",
+      "priceBand": {
+        "min": 142.0,
+        "max": 150.0
+      },
+      "lotSize": "100",
+      "faceValue": null,
+      "issueSize": "₹255.00 Cr",
+      "gmp": {
+        "value": 35.0,
+        "percent": 23.33
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "SFC Environmental Technologies Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "listingDate": "2026-11-03",
+      "priceBand": {
+        "min": 313.0,
+        "max": 330.0
+      },
+      "lotSize": "45",
+      "faceValue": null,
+      "issueSize": "₹667.53 Cr",
+      "gmp": {
+        "value": 21.0,
+        "percent": 6.36
+      },
+      "subscriptionTimes": "-"
     }
   ]
 }
