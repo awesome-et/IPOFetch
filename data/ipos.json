@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:53:15Z",
+  "generatedAt": "2026-10-23T14:30:04Z",
   "ipos": [
     {
       "companyName": "EAAA India Alternatives Limited",
@@ -58,6 +58,26 @@
       "gmp": {
         "value": 21.0,
         "percent": 6.36
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "M. K. Sons Fine Jewels Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-28",
+      "closeDate": "2026-10-30",
+      "listingDate": "2026-11-04",
+      "priceBand": {
+        "min": 153.0,
+        "max": 162.0
+      },
+      "lotSize": "91",
+      "faceValue": null,
+      "issueSize": "₹275.40 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
       },
       "subscriptionTimes": "-"
     }
