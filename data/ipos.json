@@ -1,46 +1,6 @@
 {
-  "generatedAt": "2026-10-22T22:49:39Z",
+  "generatedAt": "2026-10-23T02:11:34Z",
   "ipos": [
-    {
-      "companyName": "Jio Platforms Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-10-21",
-      "closeDate": "2026-10-23",
-      "listingDate": "2026-10-28",
-      "priceBand": {
-        "min": 1065.0,
-        "max": 1119.0
-      },
-      "lotSize": "12",
-      "faceValue": null,
-      "issueSize": "₹30213.00 Cr",
-      "gmp": {
-        "value": 240.0,
-        "percent": 21.45
-      },
-      "subscriptionTimes": "5.4x"
-    },
-    {
-      "companyName": "Paras Healthcare Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-10-21",
-      "closeDate": "2026-10-23",
-      "listingDate": "2026-10-28",
-      "priceBand": {
-        "min": 660.0,
-        "max": 693.0
-      },
-      "lotSize": "21",
-      "faceValue": null,
-      "issueSize": "₹1450.00 Cr",
-      "gmp": {
-        "value": 13.0,
-        "percent": 1.88
-      },
-      "subscriptionTimes": "0.36x"
-    },
     {
       "companyName": "EAAA India Alternatives Limited",
       "platform": null,
