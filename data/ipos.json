@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:40:57Z",
+  "generatedAt": "2026-10-24T17:03:13Z",
   "ipos": [
     {
       "companyName": "EAAA India Alternatives Limited",
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹255.00 Cr",
       "gmp": {
-        "value": 39.0,
-        "percent": 26.0
+        "value": 40.0,
+        "percent": 26.67
       },
       "subscriptionTimes": "-"
     },
@@ -76,8 +76,8 @@
       "faceValue": null,
       "issueSize": "₹275.40 Cr",
       "gmp": {
-        "value": 8.0,
-        "percent": 4.94
+        "value": 7.0,
+        "percent": 4.32
       },
       "subscriptionTimes": "-"
     }
