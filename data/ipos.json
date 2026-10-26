@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T07:21:47Z",
+  "generatedAt": "2026-10-26T14:37:17Z",
   "ipos": [
     {
       "companyName": "EAAA India Alternatives Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹1200.00 Cr",
       "gmp": {
-        "value": 35.0,
-        "percent": 2.1
+        "value": 23.0,
+        "percent": 1.38
       },
-      "subscriptionTimes": "0.05x"
+      "subscriptionTimes": "0.12x"
     },
     {
       "companyName": "BLS Polymers Limited",
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹255.00 Cr",
       "gmp": {
-        "value": 38.0,
-        "percent": 25.33
+        "value": 41.5,
+        "percent": 27.67
       },
       "subscriptionTimes": "-"
     },
@@ -56,8 +56,8 @@
       "faceValue": null,
       "issueSize": "₹667.53 Cr",
       "gmp": {
-        "value": 28.0,
-        "percent": 8.48
+        "value": 22.0,
+        "percent": 6.67
       },
       "subscriptionTimes": "-"
     },
@@ -76,8 +76,28 @@
       "faceValue": null,
       "issueSize": "₹275.40 Cr",
       "gmp": {
-        "value": 7.5,
-        "percent": 4.63
+        "value": 8.5,
+        "percent": 5.25
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Bombay Coated and Special Steels Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-10-29",
+      "closeDate": "2026-11-02",
+      "listingDate": "2026-11-05",
+      "priceBand": {
+        "min": 78.0,
+        "max": 82.0
+      },
+      "lotSize": "182",
+      "faceValue": null,
+      "issueSize": "₹183.06 Cr",
+      "gmp": {
+        "value": 9.0,
+        "percent": 10.98
       },
       "subscriptionTimes": "-"
     }
