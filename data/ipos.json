@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:58:24Z",
+  "generatedAt": "2026-10-26T07:21:47Z",
   "ipos": [
     {
       "companyName": "EAAA India Alternatives Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹1200.00 Cr",
       "gmp": {
-        "value": 36.0,
-        "percent": 2.16
+        "value": 35.0,
+        "percent": 2.1
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.05x"
     },
     {
       "companyName": "BLS Polymers Limited",
@@ -56,8 +56,8 @@
       "faceValue": null,
       "issueSize": "₹667.53 Cr",
       "gmp": {
-        "value": 32.0,
-        "percent": 9.7
+        "value": 28.0,
+        "percent": 8.48
       },
       "subscriptionTimes": "-"
     },
@@ -76,8 +76,8 @@
       "faceValue": null,
       "issueSize": "₹275.40 Cr",
       "gmp": {
-        "value": 7.0,
-        "percent": 4.32
+        "value": 7.5,
+        "percent": 4.63
       },
       "subscriptionTimes": "-"
     }
