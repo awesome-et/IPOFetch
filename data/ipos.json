@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:55:27Z",
+  "generatedAt": "2026-10-27T13:41:08Z",
   "ipos": [
     {
       "companyName": "EAAA India Alternatives Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹1200.00 Cr",
       "gmp": {
-        "value": 12.0,
-        "percent": 0.72
+        "value": 10.0,
+        "percent": 0.6
       },
-      "subscriptionTimes": "0.14x"
+      "subscriptionTimes": "0.35x"
     },
     {
       "companyName": "BLS Polymers Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹255.00 Cr",
       "gmp": {
-        "value": 39.0,
-        "percent": 26.0
+        "value": 44.0,
+        "percent": 29.33
       },
-      "subscriptionTimes": "4.13x"
+      "subscriptionTimes": "9.62x"
     },
     {
       "companyName": "SFC Environmental Technologies Limited",
@@ -59,7 +59,7 @@
         "value": 15.0,
         "percent": 4.55
       },
-      "subscriptionTimes": "0.05x"
+      "subscriptionTimes": "0.1x"
     },
     {
       "companyName": "M. K. Sons Fine Jewels Limited",
@@ -76,8 +76,8 @@
       "faceValue": null,
       "issueSize": "₹275.40 Cr",
       "gmp": {
-        "value": 7.0,
-        "percent": 4.32
+        "value": 9.0,
+        "percent": 5.56
       },
       "subscriptionTimes": "-"
     },
