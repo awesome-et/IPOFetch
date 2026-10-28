@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-10-28T02:44:56Z",
+  "generatedAt": "2026-10-28T10:05:27Z",
   "ipos": [
-    {
-      "companyName": "EAAA India Alternatives Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-10-26",
-      "closeDate": "2026-10-28",
-      "listingDate": "2026-11-02",
-      "priceBand": {
-        "min": 1585.0,
-        "max": 1665.0
-      },
-      "lotSize": "9",
-      "faceValue": null,
-      "issueSize": "₹1200.00 Cr",
-      "gmp": {
-        "value": 11.0,
-        "percent": 0.66
-      },
-      "subscriptionTimes": "0.35x"
-    },
     {
       "companyName": "BLS Polymers Limited",
       "platform": null,
@@ -36,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹255.00 Cr",
       "gmp": {
-        "value": 44.0,
-        "percent": 29.33
+        "value": 44.5,
+        "percent": 29.67
       },
-      "subscriptionTimes": "9.62x"
+      "subscriptionTimes": "18.46x"
     },
     {
       "companyName": "SFC Environmental Technologies Limited",
@@ -56,15 +36,15 @@
       "faceValue": null,
       "issueSize": "₹667.53 Cr",
       "gmp": {
-        "value": 17.0,
-        "percent": 5.15
+        "value": 16.0,
+        "percent": 4.85
       },
-      "subscriptionTimes": "0.1x"
+      "subscriptionTimes": "0.16x"
     },
     {
       "companyName": "M. K. Sons Fine Jewels Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": "2026-10-28",
       "closeDate": "2026-10-30",
       "listingDate": "2026-11-04",
@@ -79,7 +59,7 @@
         "value": 10.0,
         "percent": 6.17
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.19x"
     },
     {
       "companyName": "Bombay Coated and Special Steels Limited",
