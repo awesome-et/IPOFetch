@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T17:29:30Z",
+  "generatedAt": "2026-10-28T21:56:38Z",
   "ipos": [
     {
       "companyName": "BLS Polymers Limited",
@@ -56,8 +56,8 @@
       "faceValue": null,
       "issueSize": "₹275.40 Cr",
       "gmp": {
-        "value": 16.0,
-        "percent": 9.88
+        "value": 15.0,
+        "percent": 9.26
       },
       "subscriptionTimes": "0.65x"
     },
