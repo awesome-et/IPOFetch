@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:05:27Z",
+  "generatedAt": "2026-10-28T17:29:30Z",
   "ipos": [
     {
       "companyName": "BLS Polymers Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹255.00 Cr",
       "gmp": {
-        "value": 44.5,
-        "percent": 29.67
+        "value": 51.0,
+        "percent": 34.0
       },
-      "subscriptionTimes": "18.46x"
+      "subscriptionTimes": "35.3x"
     },
     {
       "companyName": "SFC Environmental Technologies Limited",
@@ -36,10 +36,10 @@
       "faceValue": null,
       "issueSize": "₹667.53 Cr",
       "gmp": {
-        "value": 16.0,
-        "percent": 4.85
+        "value": 10.0,
+        "percent": 3.03
       },
-      "subscriptionTimes": "0.16x"
+      "subscriptionTimes": "0.27x"
     },
     {
       "companyName": "M. K. Sons Fine Jewels Limited",
@@ -56,10 +56,10 @@
       "faceValue": null,
       "issueSize": "₹275.40 Cr",
       "gmp": {
-        "value": 10.0,
-        "percent": 6.17
+        "value": 16.0,
+        "percent": 9.88
       },
-      "subscriptionTimes": "0.19x"
+      "subscriptionTimes": "0.65x"
     },
     {
       "companyName": "Bombay Coated and Special Steels Limited",
@@ -78,6 +78,46 @@
       "gmp": {
         "value": 9.0,
         "percent": 10.98
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "HGS (India) Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-10-30",
+      "closeDate": "2026-11-03",
+      "listingDate": "2026-11-06",
+      "priceBand": {
+        "min": 114.0,
+        "max": 120.0
+      },
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹34.56 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Maxwell Engineering Solutions Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-10-30",
+      "closeDate": "2026-11-03",
+      "listingDate": "2026-11-06",
+      "priceBand": {
+        "min": 150.0,
+        "max": 158.0
+      },
+      "lotSize": "800",
+      "faceValue": null,
+      "issueSize": "₹57.64 Cr",
+      "gmp": {
+        "value": 43.0,
+        "percent": 27.22
       },
       "subscriptionTimes": "-"
     }
