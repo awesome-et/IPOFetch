@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:43:57Z",
+  "generatedAt": "2026-10-29T14:42:41Z",
   "ipos": [
     {
       "companyName": "M. K. Sons Fine Jewels Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹275.40 Cr",
       "gmp": {
-        "value": 14.0,
-        "percent": 8.64
+        "value": 11.0,
+        "percent": 6.79
       },
-      "subscriptionTimes": "0.8x"
+      "subscriptionTimes": "1.18x"
     },
     {
       "companyName": "Bombay Coated and Special Steels Limited",
@@ -39,7 +39,7 @@
         "value": 9.0,
         "percent": 10.98
       },
-      "subscriptionTimes": "0.82x"
+      "subscriptionTimes": "2.81x"
     },
     {
       "companyName": "HGS (India) Limited",
@@ -78,6 +78,26 @@
       "gmp": {
         "value": 52.0,
         "percent": 32.91
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Vedant Poly Fabs Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-11-02",
+      "closeDate": "2026-11-04",
+      "listingDate": "2026-11-09",
+      "priceBand": {
+        "min": 88.0,
+        "max": 94.0
+      },
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹56.68 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
       },
       "subscriptionTimes": "-"
     }
