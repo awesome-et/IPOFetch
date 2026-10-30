@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T07:49:21Z",
+  "generatedAt": "2026-10-30T14:38:47Z",
   "ipos": [
     {
       "companyName": "Bombay Coated and Special Steels Limited",
@@ -16,10 +16,10 @@
       "faceValue": null,
       "issueSize": "₹183.06 Cr",
       "gmp": {
-        "value": 8.0,
-        "percent": 9.76
+        "value": 7.0,
+        "percent": 8.54
       },
-      "subscriptionTimes": "3.2x"
+      "subscriptionTimes": "3.98x"
     },
     {
       "companyName": "Vedant Poly Fabs Limited",
@@ -53,10 +53,10 @@
       "faceValue": null,
       "issueSize": "₹34.56 Cr",
       "gmp": {
-        "value": null,
-        "percent": 0.0
+        "value": 19.0,
+        "percent": 15.83
       },
-      "subscriptionTimes": "0.03x"
+      "subscriptionTimes": "1.16x"
     },
     {
       "companyName": "Maxwell Engineering Solutions Limited",
@@ -73,7 +73,7 @@
         "value": 70.0,
         "percent": 44.3
       },
-      "subscriptionTimes": "0.92x"
+      "subscriptionTimes": "4.67x"
     }
   ]
 }
