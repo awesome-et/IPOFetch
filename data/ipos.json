@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:08:06Z",
+  "generatedAt": "2026-10-31T07:37:29Z",
   "ipos": [
     {
       "companyName": "Bombay Coated and Special Steels Limited",
@@ -16,8 +16,8 @@
       "faceValue": null,
       "issueSize": "₹183.06 Cr",
       "gmp": {
-        "value": 7.0,
-        "percent": 8.54
+        "value": 10.0,
+        "percent": 12.2
       },
       "subscriptionTimes": "3.98x"
     },
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹56.68 Cr",
       "gmp": {
-        "value": null,
-        "percent": 0.0
+        "value": 4.25,
+        "percent": 4.52
       },
       "subscriptionTimes": "-"
     },
