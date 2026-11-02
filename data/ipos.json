@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-11-02T01:05:15Z",
+  "generatedAt": "2026-11-02T08:29:49Z",
   "ipos": [
-    {
-      "companyName": "Bombay Coated and Special Steels Limited",
-      "platform": null,
-      "status": "open",
-      "openDate": "2026-10-29",
-      "closeDate": "2026-11-02",
-      "listingDate": "2026-11-05",
-      "priceBand": {
-        "min": 78.0,
-        "max": 82.0
-      },
-      "lotSize": "182",
-      "faceValue": null,
-      "issueSize": "₹183.06 Cr",
-      "gmp": {
-        "value": 9.0,
-        "percent": 10.98
-      },
-      "subscriptionTimes": "3.98x"
-    },
     {
       "companyName": "HGS (India) Limited",
       "platform": "SME",
@@ -36,7 +16,7 @@
         "value": 30.0,
         "percent": 25.0
       },
-      "subscriptionTimes": "1.16x"
+      "subscriptionTimes": "8.22x"
     },
     {
       "companyName": "Maxwell Engineering Solutions Limited",
@@ -53,12 +33,12 @@
         "value": 70.0,
         "percent": 44.3
       },
-      "subscriptionTimes": "4.67x"
+      "subscriptionTimes": "33.49x"
     },
     {
       "companyName": "Vedant Poly Fabs Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-11-09",
@@ -70,7 +50,7 @@
         "value": 15.0,
         "percent": 15.96
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.29x"
     }
   ]
 }
