@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T08:29:49Z",
+  "generatedAt": "2026-11-02T19:51:50Z",
   "ipos": [
     {
       "companyName": "HGS (India) Limited",
@@ -16,7 +16,7 @@
         "value": 30.0,
         "percent": 25.0
       },
-      "subscriptionTimes": "8.22x"
+      "subscriptionTimes": "20.96x"
     },
     {
       "companyName": "Maxwell Engineering Solutions Limited",
@@ -30,10 +30,10 @@
       "faceValue": null,
       "issueSize": "₹57.64 Cr",
       "gmp": {
-        "value": 70.0,
-        "percent": 44.3
+        "value": 80.0,
+        "percent": 50.63
       },
-      "subscriptionTimes": "33.49x"
+      "subscriptionTimes": "80.34x"
     },
     {
       "companyName": "Vedant Poly Fabs Limited",
@@ -50,7 +50,7 @@
         "value": 15.0,
         "percent": 15.96
       },
-      "subscriptionTimes": "0.29x"
+      "subscriptionTimes": "0.42x"
     }
   ]
 }
