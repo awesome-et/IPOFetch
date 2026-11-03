@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T08:43:32Z",
+  "generatedAt": "2026-11-03T17:24:09Z",
   "ipos": [
     {
       "companyName": "Vedant Poly Fabs Limited",
@@ -13,10 +13,10 @@
       "faceValue": null,
       "issueSize": "₹56.68 Cr",
       "gmp": {
-        "value": 15.0,
-        "percent": 15.96
+        "value": 11.0,
+        "percent": 11.7
       },
-      "subscriptionTimes": "0.52x"
+      "subscriptionTimes": "0.89x"
     }
   ]
 }
