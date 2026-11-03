@@ -1,40 +1,6 @@
 {
-  "generatedAt": "2026-11-03T01:53:34Z",
+  "generatedAt": "2026-11-03T08:43:32Z",
   "ipos": [
-    {
-      "companyName": "HGS (India) Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-11-06",
-      "priceBand": null,
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹34.56 Cr",
-      "gmp": {
-        "value": 30.0,
-        "percent": 25.0
-      },
-      "subscriptionTimes": "20.96x"
-    },
-    {
-      "companyName": "Maxwell Engineering Solutions Limited",
-      "platform": "SME",
-      "status": "open",
-      "openDate": null,
-      "closeDate": null,
-      "listingDate": "2026-11-06",
-      "priceBand": null,
-      "lotSize": "800",
-      "faceValue": null,
-      "issueSize": "₹57.64 Cr",
-      "gmp": {
-        "value": 80.0,
-        "percent": 50.63
-      },
-      "subscriptionTimes": "80.34x"
-    },
     {
       "companyName": "Vedant Poly Fabs Limited",
       "platform": "SME",
@@ -50,7 +16,7 @@
         "value": 15.0,
         "percent": 15.96
       },
-      "subscriptionTimes": "0.42x"
+      "subscriptionTimes": "0.52x"
     }
   ]
 }
