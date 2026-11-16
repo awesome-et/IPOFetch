@@ -1,4 +1,45 @@
 {
-  "generatedAt": "2026-11-16T03:25:18Z",
-  "ipos": []
+  "generatedAt": "2026-11-16T12:09:24Z",
+  "ipos": [
+    {
+      "companyName": "Crystal Crop Protection Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-11-18",
+      "closeDate": "2026-11-20",
+      "listingDate": "2026-11-26",
+      "priceBand": {
+        "min": 259.0,
+        "max": 272.0
+      },
+      "lotSize": "55",
+      "faceValue": null,
+      "issueSize": "₹455.49 Cr",
+      "gmp": {
+        "value": 13.0,
+        "percent": 4.78
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Watrana Rentals Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-11-19",
+      "closeDate": "2026-11-23",
+      "listingDate": "2026-11-27",
+      "priceBand": {
+        "min": 232.0,
+        "max": 245.0
+      },
+      "lotSize": "600",
+      "faceValue": null,
+      "issueSize": "₹120.10 Cr",
+      "gmp": {
+        "value": 25.0,
+        "percent": 10.2
+      },
+      "subscriptionTimes": "-"
+    }
+  ]
 }
