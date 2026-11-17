@@ -1,46 +1,6 @@
 {
-  "generatedAt": "2026-11-17T14:59:50Z",
+  "generatedAt": "2026-11-17T23:13:09Z",
   "ipos": [
-    {
-      "companyName": "Crystal Crop Protection Limited",
-      "platform": null,
-      "status": "upcoming",
-      "openDate": "2026-11-18",
-      "closeDate": "2026-11-20",
-      "listingDate": "2026-11-26",
-      "priceBand": {
-        "min": 259.0,
-        "max": 272.0
-      },
-      "lotSize": "55",
-      "faceValue": null,
-      "issueSize": "₹455.49 Cr",
-      "gmp": {
-        "value": 19.0,
-        "percent": 6.99
-      },
-      "subscriptionTimes": "-"
-    },
-    {
-      "companyName": "Mahanadi Coalfields Limited",
-      "platform": null,
-      "status": "upcoming",
-      "openDate": "2026-11-19",
-      "closeDate": "2026-11-23",
-      "listingDate": "2026-11-27",
-      "priceBand": {
-        "min": 129.0,
-        "max": 136.0
-      },
-      "lotSize": "110",
-      "faceValue": null,
-      "issueSize": "₹8981.12 Cr",
-      "gmp": {
-        "value": 3.6,
-        "percent": 2.65
-      },
-      "subscriptionTimes": "-"
-    },
     {
       "companyName": "Watrana Rentals Limited",
       "platform": "SME",
@@ -58,6 +18,23 @@
       "gmp": {
         "value": 25.0,
         "percent": 10.2
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Crystal Crop Protection Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-11-26",
+      "priceBand": null,
+      "lotSize": "55",
+      "faceValue": null,
+      "issueSize": "₹455.49 Cr",
+      "gmp": {
+        "value": 19.0,
+        "percent": 6.99
       },
       "subscriptionTimes": "-"
     }
