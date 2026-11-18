@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:13:09Z",
+  "generatedAt": "2026-11-18T04:51:57Z",
   "ipos": [
     {
       "companyName": "Watrana Rentals Limited",
@@ -24,7 +24,7 @@
     {
       "companyName": "Crystal Crop Protection Limited",
       "platform": null,
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-11-26",
@@ -36,7 +36,7 @@
         "value": 19.0,
         "percent": 6.99
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.03x"
     }
   ]
 }
