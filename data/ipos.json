@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:47:12Z",
+  "generatedAt": "2026-11-19T22:47:51Z",
   "ipos": [
     {
       "companyName": "Crystal Crop Protection Limited",
@@ -30,8 +30,8 @@
       "faceValue": null,
       "issueSize": "₹8981.12 Cr",
       "gmp": {
-        "value": 1.9,
-        "percent": 1.4
+        "value": 1.8,
+        "percent": 1.32
       },
       "subscriptionTimes": "0.38x"
     },
