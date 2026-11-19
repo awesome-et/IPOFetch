@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T04:43:26Z",
+  "generatedAt": "2026-11-19T14:47:12Z",
   "ipos": [
     {
       "companyName": "Crystal Crop Protection Limited",
@@ -13,10 +13,10 @@
       "faceValue": null,
       "issueSize": "₹455.49 Cr",
       "gmp": {
-        "value": 18.0,
-        "percent": 6.62
+        "value": 17.0,
+        "percent": 6.25
       },
-      "subscriptionTimes": "1.48x"
+      "subscriptionTimes": "3.08x"
     },
     {
       "companyName": "Mahanadi Coalfields Limited",
@@ -30,10 +30,10 @@
       "faceValue": null,
       "issueSize": "₹8981.12 Cr",
       "gmp": {
-        "value": 3.0,
-        "percent": 2.21
+        "value": 1.9,
+        "percent": 1.4
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.38x"
     },
     {
       "companyName": "Watrana Rentals Limited",
@@ -47,10 +47,10 @@
       "faceValue": null,
       "issueSize": "₹120.10 Cr",
       "gmp": {
-        "value": 62.0,
-        "percent": 25.31
+        "value": 67.0,
+        "percent": 27.35
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "3.78x"
     }
   ]
 }
