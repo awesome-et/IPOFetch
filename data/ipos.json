@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-20T04:34:38Z",
+  "generatedAt": "2026-11-20T14:28:31Z",
   "ipos": [
+    {
+      "companyName": "Shree Siddhivinayak Greentech Industries Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-11-25",
+      "closeDate": "2026-11-27",
+      "listingDate": "2026-12-02",
+      "priceBand": {
+        "min": 130.0,
+        "max": 142.0
+      },
+      "lotSize": "1000",
+      "faceValue": null,
+      "issueSize": "₹93.66 Cr",
+      "gmp": {
+        "value": null,
+        "percent": 0.0
+      },
+      "subscriptionTimes": "-"
+    },
     {
       "companyName": "Mahanadi Coalfields Limited",
       "platform": null,
@@ -13,10 +33,10 @@
       "faceValue": null,
       "issueSize": "₹8981.12 Cr",
       "gmp": {
-        "value": 1.8,
-        "percent": 1.32
+        "value": 0.5,
+        "percent": 0.37
       },
-      "subscriptionTimes": "0.38x"
+      "subscriptionTimes": "0.49x"
     },
     {
       "companyName": "Watrana Rentals Limited",
@@ -33,7 +53,7 @@
         "value": 67.0,
         "percent": 27.35
       },
-      "subscriptionTimes": "3.78x"
+      "subscriptionTimes": "11.98x"
     }
   ]
 }
