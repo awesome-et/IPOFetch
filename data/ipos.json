@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:28:38Z",
+  "generatedAt": "2026-11-21T13:47:44Z",
   "ipos": [
     {
       "companyName": "Shree Siddhivinayak Greentech Industries Limited",
@@ -33,8 +33,8 @@
       "faceValue": null,
       "issueSize": "₹8981.12 Cr",
       "gmp": {
-        "value": 0.75,
-        "percent": 0.55
+        "value": 0.7,
+        "percent": 0.51
       },
       "subscriptionTimes": "0.49x"
     },
@@ -50,8 +50,8 @@
       "faceValue": null,
       "issueSize": "₹120.10 Cr",
       "gmp": {
-        "value": 67.0,
-        "percent": 27.35
+        "value": 65.0,
+        "percent": 26.53
       },
       "subscriptionTimes": "11.98x"
     }
