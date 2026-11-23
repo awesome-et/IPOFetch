@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T04:18:22Z",
+  "generatedAt": "2026-11-23T16:39:07Z",
   "ipos": [
     {
       "companyName": "Shree Siddhivinayak Greentech Industries Limited",
@@ -16,8 +16,28 @@
       "faceValue": null,
       "issueSize": "₹93.66 Cr",
       "gmp": {
-        "value": null,
-        "percent": 0.0
+        "value": 10.0,
+        "percent": 7.04
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Foodlink F&B Holdings (India) Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-11-26",
+      "closeDate": "2026-11-30",
+      "listingDate": "2026-12-03",
+      "priceBand": {
+        "min": 181.0,
+        "max": 191.0
+      },
+      "lotSize": "78",
+      "faceValue": null,
+      "issueSize": "₹360.76 Cr",
+      "gmp": {
+        "value": 15.0,
+        "percent": 7.85
       },
       "subscriptionTimes": "-"
     }
