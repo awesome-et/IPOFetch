@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T00:11:16Z",
+  "generatedAt": "2026-11-25T10:35:57Z",
   "ipos": [
     {
       "companyName": "Foodlink F&B Holdings (India) Limited",
@@ -16,15 +16,55 @@
       "faceValue": null,
       "issueSize": "₹360.76 Cr",
       "gmp": {
-        "value": 21.0,
-        "percent": 10.99
+        "value": 27.0,
+        "percent": 14.14
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Airpro Technology India Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-11-27",
+      "closeDate": "2026-12-01",
+      "listingDate": "2026-12-04",
+      "priceBand": {
+        "min": 99.0,
+        "max": 99.0
+      },
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹35.64 Cr",
+      "gmp": {
+        "value": 4.0,
+        "percent": 4.04
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "A J Packaging Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": "2026-12-01",
+      "closeDate": "2026-12-03",
+      "listingDate": "2026-12-08",
+      "priceBand": {
+        "min": 175.0,
+        "max": 180.0
+      },
+      "lotSize": "800",
+      "faceValue": null,
+      "issueSize": "₹54.00 Cr",
+      "gmp": {
+        "value": 24.0,
+        "percent": 13.33
       },
       "subscriptionTimes": "-"
     },
     {
       "companyName": "Shree Siddhivinayak Greentech Industries Limited",
       "platform": "SME",
-      "status": "upcoming",
+      "status": "open",
       "openDate": null,
       "closeDate": null,
       "listingDate": "2026-12-02",
@@ -36,7 +76,7 @@
         "value": 20.0,
         "percent": 14.08
       },
-      "subscriptionTimes": "-"
+      "subscriptionTimes": "0.38x"
     }
   ]
 }
