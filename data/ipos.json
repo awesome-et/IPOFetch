@@ -1,26 +1,6 @@
 {
-  "generatedAt": "2026-11-26T13:17:37Z",
+  "generatedAt": "2026-11-26T22:39:30Z",
   "ipos": [
-    {
-      "companyName": "Airpro Technology India Limited",
-      "platform": "SME",
-      "status": "upcoming",
-      "openDate": "2026-11-27",
-      "closeDate": "2026-12-01",
-      "listingDate": "2026-12-04",
-      "priceBand": {
-        "min": 99.0,
-        "max": 99.0
-      },
-      "lotSize": "1200",
-      "faceValue": null,
-      "issueSize": "₹35.64 Cr",
-      "gmp": {
-        "value": 3.0,
-        "percent": 3.03
-      },
-      "subscriptionTimes": "-"
-    },
     {
       "companyName": "A J Packaging Limited",
       "platform": "SME",
@@ -82,6 +62,23 @@
       "subscriptionTimes": "-"
     },
     {
+      "companyName": "Airpro Technology India Limited",
+      "platform": "SME",
+      "status": "upcoming",
+      "openDate": null,
+      "closeDate": null,
+      "listingDate": "2026-12-04",
+      "priceBand": null,
+      "lotSize": "1200",
+      "faceValue": null,
+      "issueSize": "₹35.64 Cr",
+      "gmp": {
+        "value": 3.0,
+        "percent": 3.03
+      },
+      "subscriptionTimes": "-"
+    },
+    {
       "companyName": "Foodlink F&B Holdings (India) Limited",
       "platform": null,
       "status": "open",
@@ -93,8 +90,8 @@
       "faceValue": null,
       "issueSize": "₹360.76 Cr",
       "gmp": {
-        "value": 10.0,
-        "percent": 5.24
+        "value": 7.0,
+        "percent": 3.66
       },
       "subscriptionTimes": "1.1x"
     },
@@ -110,8 +107,8 @@
       "faceValue": null,
       "issueSize": "₹93.66 Cr",
       "gmp": {
-        "value": 4.0,
-        "percent": 2.82
+        "value": 2.0,
+        "percent": 1.41
       },
       "subscriptionTimes": "1.27x"
     }
