@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T05:34:05Z",
+  "generatedAt": "2026-11-27T15:42:40Z",
   "ipos": [
     {
       "companyName": "A J Packaging Limited",
@@ -36,8 +36,8 @@
       "faceValue": null,
       "issueSize": "₹125.16 Cr",
       "gmp": {
-        "value": 27.0,
-        "percent": 15.7
+        "value": 31.0,
+        "percent": 18.02
       },
       "subscriptionTimes": "-"
     },
@@ -56,8 +56,28 @@
       "faceValue": null,
       "issueSize": "₹175.50 Cr",
       "gmp": {
-        "value": 24.0,
-        "percent": 36.92
+        "value": 20.0,
+        "percent": 30.77
+      },
+      "subscriptionTimes": "-"
+    },
+    {
+      "companyName": "Swara Baby Products Limited",
+      "platform": null,
+      "status": "upcoming",
+      "openDate": "2026-12-02",
+      "closeDate": "2026-12-04",
+      "listingDate": "2026-12-09",
+      "priceBand": {
+        "min": 105.0,
+        "max": 111.0
+      },
+      "lotSize": "135",
+      "faceValue": null,
+      "issueSize": "₹799.88 Cr",
+      "gmp": {
+        "value": 3.0,
+        "percent": 2.7
       },
       "subscriptionTimes": "-"
     },
@@ -76,7 +96,7 @@
         "value": 3.0,
         "percent": 3.03
       },
-      "subscriptionTimes": "0.11x"
+      "subscriptionTimes": "0.8x"
     },
     {
       "companyName": "Foodlink F&B Holdings (India) Limited",
@@ -90,10 +110,10 @@
       "faceValue": null,
       "issueSize": "₹360.76 Cr",
       "gmp": {
-        "value": 7.0,
-        "percent": 3.66
+        "value": 4.0,
+        "percent": 2.09
       },
-      "subscriptionTimes": "1.23x"
+      "subscriptionTimes": "1.49x"
     }
   ]
 }
